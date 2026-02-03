@@ -1,0 +1,20 @@
+PRAGMA journal_mode = WAL;
+
+CREATE TABLE IF not EXISTS files(
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  ruta TEXT NOT NULL UNIQUE,
+  last_offset INTEGER NOT NULL DEFAULT 0,
+  last_mtime REAL NOT NULL DEFAULT 0,
+  last_size INTEGER NOT NULL DEFAULT 0,
+  last_seen INTEGER NOT NULL DEFAULT 0
+);
+
+CREATE TABLE IF NOT EXISTS hands(
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  file_id INTEGER NOT NULL,
+  hand_no TEXT,
+  inserted_at REAL NOT NULL,
+  raw_hand TEXT NOT NULL,
+  FOREIGN KEY (file_id) REFERENCES files(id) ON DELETE CASCADE,
+  UNIQUE (file_id, hand_no)
+);
