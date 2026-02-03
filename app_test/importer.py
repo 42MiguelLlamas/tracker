@@ -160,7 +160,7 @@ class HandHistoryImporter:
         rt.carry = carry
         self.db.update_file_offset(file_id, new_offset)
         if inserted:
-            print(f"IMPORTED {Path(path_str).name}: {inserted} hands (total = {self.db.count_hands})")
+            print(f"IMPORTED {hand_no}: {inserted} hands (total = {self.db.count_hands()})")
 
     def __flush_carry(self, path_str: str, file_id: int) -> None:
         rt = self.runtime[path_str]

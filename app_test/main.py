@@ -12,6 +12,10 @@ from .importer import HandHistoryImporter
 
 load_dotenv()
 FOLDER = os.getenv('FOLDER')
+def on_tick(importer, appSettings) -> None:
+    importer.tick()
+    appSettings.refresh()
+
 
 def main():
     QQuickStyle.setStyle("Fusion")  # o "Material" si te gusta
@@ -23,7 +27,7 @@ def main():
     db = DB(db_path)
     folder = FOLDER
     importer = HandHistoryImporter(
-        db=db, 
+        db=db,
         folder=folder,
         window_seconds=300,
         idle_flush_seconds=200,
@@ -32,7 +36,7 @@ def main():
     app = QGuiApplication(sys.argv)
     engine = QQmlApplicationEngine()
 
-    settings = MockSettings()
+    settings = MockSettings(db)
     engine.rootContext().setContextProperty("appSettings", settings)
 
     engine.load(str(qml_path))
@@ -44,7 +48,7 @@ def main():
 
     timer = QTimer()
     timer.setInterval(1000)
-    timer.timeout.connect(importer.tick)
+    timer.timeout.connect(lambda: on_tick(importer, settings))
     timer.start()
     rc = app.exec()
     db.close()

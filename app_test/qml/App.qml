@@ -314,14 +314,7 @@ ApplicationWindow {
             function refreshMockData() {
                 // Fecha/hora actual
                 liveTimestamp = Qt.formatDateTime(new Date(), "yyyy-MM-dd  HH:mm:ss")
-
-                // Mock: contadores que cambian
-                handsRead += Math.floor(Math.random() * 4)   // 0..3
-                handsParsed += Math.floor(Math.random() * 3) // 0..2
-
-                // Mock: VPIP fluctuando un poco
-                var delta = (Math.random() - 0.5) * 2.0  // -1..+1
-                vpip = Math.max(0, Math.min(100, vpip + delta))
+                appSettings.refresh()
             }
 
             Timer {
@@ -422,7 +415,7 @@ ApplicationWindow {
                                     spacing: 8
 
                                     Label { text: "Manos leídas"; font.pixelSize: 14; opacity: 0.75 }
-                                    Label { text: handsRead.toString(); font.pixelSize: 38; font.bold: true }
+                                    Label { text: appSettings.handsCount.toString(); font.pixelSize: 38; font.bold: true }
                                     Item { Layout.fillHeight: true }
                                     ProgressBar {
                                         from: 0

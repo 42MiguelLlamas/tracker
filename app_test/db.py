@@ -25,9 +25,9 @@ class DB:
         cur = self.conn.cursor()
         cur.execute(
             """
-            INSERT INTO files(path, last_mtime, last_size, last_seen)
+            INSERT INTO files(ruta, last_mtime, last_size, last_seen)
             VALUES(?,?,?,?)
-            ON CONFLICT(path) DO UPDATE SET
+            ON CONFLICT(ruta) DO UPDATE SET
             last_mtime=excluded.last_mtime,
             last_size=excluded.last_size,
             last_seen=excluded.last_seen""",
@@ -37,7 +37,7 @@ class DB:
             """
             SELECT id 
             FROM files 
-            WHERE path=?
+            WHERE ruta=?
             """,
             (path,)
         )
@@ -51,7 +51,7 @@ class DB:
             FROM files
             WHERE ruta=?
             """,
-            (path)
+            (path,)
         )
         row = cur.fetchone()
         if not row:
@@ -72,6 +72,7 @@ class DB:
     def insert_hand_raw(self, file_id:int, hand_no: Optional[str], raw_hand: str) -> bool:
         now = time.time()
         try:
+            print("insertando mano: ", hand_no)
             self.conn.execute(
                 """
                 INSERT INTO hands(file_id, hand_no, inserted_at, raw_hand)
@@ -83,7 +84,7 @@ class DB:
         except sqlite3.IntegrityError:
             # ya existía (PRIMARY KEY)
             return False
-    def count_hands(self) -> None:
+    def count_hands(self) -> int:
         cur = self.conn.cursor()
         cur.execute(
             """
