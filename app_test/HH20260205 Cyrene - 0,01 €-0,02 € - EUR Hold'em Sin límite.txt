@@ -1,0 +1,2755 @@
+﻿PokerStars Hand #259598448947:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:08:40 CET [2026/02/05 1:08:40 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 2: Doods31tlse (€2.03 in chips) 
+Seat 4: sunbreathking (€2 in chips) 
+Doods31tlse: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [9d Td]
+Doods31tlse: folds 
+Uncalled bet (€0.01) returned to sunbreathking
+sunbreathking collected €0.02 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.02 | Rake €0 
+Seat 2: Doods31tlse (button) (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) collected (€0.02)
+
+
+
+PokerStars Hand #259598449493:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:08:49 CET [2026/02/05 1:08:49 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 2: Doods31tlse (€2.02 in chips) 
+Seat 4: sunbreathking (€2.01 in chips) 
+sunbreathking: posts small blind €0.01
+Doods31tlse: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Qd 6c]
+sunbreathking: folds 
+Uncalled bet (€0.01) returned to Doods31tlse
+Doods31tlse collected €0.02 from pot
+*** SUMMARY ***
+Total pot €0.02 | Rake €0 
+Seat 2: Doods31tlse (big blind) collected (€0.02)
+Seat 4: sunbreathking (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598450379:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:09:02 CET [2026/02/05 1:09:02 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 2: Doods31tlse (€2.03 in chips) 
+Seat 4: sunbreathking (€2 in chips) 
+Doods31tlse: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Js 3s]
+Doods31tlse: raises €0.02 to €0.04
+OvalleAstur joins the table at seat #3 
+NassLaKlass joins the table at seat #1 
+cabeza_buceo joins the table at seat #5 
+sunbreathking: raises €0.02 to €0.06
+Doods31tlse: calls €0.02
+*** FLOP *** [Kh Ts Ks]
+sunbreathking: bets €0.04
+Doods31tlse: calls €0.04
+*** TURN *** [Kh Ts Ks] [5c]
+sunbreathking: checks 
+Doods31tlse: bets €0.14
+sunbreathking: folds 
+Uncalled bet (€0.14) returned to Doods31tlse
+Doods31tlse collected €0.19 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [Kh Ts Ks 5c]
+Seat 2: Doods31tlse (button) (small blind) collected (€0.19)
+Seat 4: sunbreathking (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259598453823:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:09:57 CET [2026/02/05 1:09:57 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 5: cabeza_buceo (€2 in chips) is sitting out
+Seat 2: Doods31tlse (€2.12 in chips) 
+Seat 3: OvalleAstur (€2 in chips) 
+Seat 4: sunbreathking (€1.90 in chips) 
+Doods31tlse: posts small blind €0.01
+OvalleAstur: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [9h 7h]
+sunbreathking has timed out
+sunbreathking: folds 
+Doods31tlse: raises €0.02 to €0.04
+OvalleAstur: folds 
+Uncalled bet (€0.02) returned to Doods31tlse
+Doods31tlse collected €0.04 from pot
+margezm joins the table at seat #6 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: NassLaKlass
+Seat 5: cabeza_buceo
+Seat 2: Doods31tlse (small blind) collected (€0.04)
+Seat 3: OvalleAstur (big blind) folded before Flop
+Seat 4: sunbreathking (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598455015:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:10:16 CET [2026/02/05 1:10:16 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 6: margezm (€2 in chips) is sitting out
+Seat 2: Doods31tlse (€2.14 in chips) 
+Seat 3: OvalleAstur (€1.98 in chips) 
+Seat 4: sunbreathking (€1.90 in chips) 
+Seat 5: cabeza_buceo (€2 in chips) 
+OvalleAstur: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+cabeza_buceo: posts big blind €0.02
+margezm is connected 
+margezm: sits out 
+NassLaKlass: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [6s 8d]
+cabeza_buceo: checks 
+Doods31tlse: calls €0.02
+OvalleAstur: folds 
+sunbreathking: checks 
+*** FLOP *** [5h Jd 2c]
+sunbreathking: checks 
+cabeza_buceo: bets €0.02
+Doods31tlse: folds 
+sunbreathking: folds 
+Uncalled bet (€0.02) returned to cabeza_buceo
+cabeza_buceo collected €0.07 from pot
+*** SUMMARY ***
+Total pot €0.07 | Rake €0 
+Board [5h Jd 2c]
+Seat 1: NassLaKlass
+Seat 6: margezm
+Seat 2: Doods31tlse (button) folded on the Flop
+Seat 3: OvalleAstur (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) folded on the Flop
+Seat 5: cabeza_buceo collected (€0.07)
+
+
+
+PokerStars Hand #259598457200:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:10:50 CET [2026/02/05 1:10:50 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 2: Doods31tlse (€2.12 in chips) 
+Seat 3: OvalleAstur (€1.97 in chips) 
+Seat 4: sunbreathking (€1.88 in chips) 
+Seat 5: cabeza_buceo (€2.05 in chips) 
+Seat 6: margezm (€2 in chips) 
+sunbreathking: posts small blind €0.01
+cabeza_buceo: posts big blind €0.02
+margezm: posts big blind €0.02
+NassLaKlass: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [4d 2d]
+margezm: checks 
+Doods31tlse: folds 
+OvalleAstur: folds 
+sunbreathking: calls €0.01
+cabeza_buceo: checks 
+*** FLOP *** [Ah Jc Kc]
+sunbreathking: checks 
+cabeza_buceo: bets €0.04
+NassLaKlass is disconnected 
+margezm: calls €0.04
+sunbreathking: folds 
+*** TURN *** [Ah Jc Kc] [Ts]
+cabeza_buceo: bets €0.04
+margezm: calls €0.04
+*** RIVER *** [Ah Jc Kc Ts] [7d]
+cabeza_buceo: bets €0.10
+margezm: folds 
+Uncalled bet (€0.10) returned to cabeza_buceo
+cabeza_buceo collected €0.21 from pot
+*** SUMMARY ***
+Total pot €0.22 | Rake €0.01 
+Board [Ah Jc Kc Ts 7d]
+Seat 1: NassLaKlass
+Seat 2: Doods31tlse folded before Flop (didn't bet)
+Seat 3: OvalleAstur (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) folded on the Flop
+Seat 5: cabeza_buceo (big blind) collected (€0.21)
+Seat 6: margezm folded on the River
+
+
+
+PokerStars Hand #259598460379:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:11:41 CET [2026/02/05 1:11:41 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 2: Doods31tlse (€2.12 in chips) 
+Seat 3: OvalleAstur (€1.97 in chips) 
+Seat 4: sunbreathking (€1.86 in chips) 
+Seat 5: cabeza_buceo (€2.16 in chips) 
+Seat 6: margezm (€1.90 in chips) 
+cabeza_buceo: posts small blind €0.01
+margezm: posts big blind €0.02
+NassLaKlass has timed out while disconnected
+NassLaKlass: is sitting out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [2h 5h]
+Doods31tlse: folds 
+OvalleAstur: raises €0.04 to €0.06
+sunbreathking: folds 
+cabeza_buceo: calls €0.05
+margezm: calls €0.04
+*** FLOP *** [4d Ac 9s]
+cabeza_buceo: bets €0.08
+margezm: folds 
+OvalleAstur: folds 
+Uncalled bet (€0.08) returned to cabeza_buceo
+cabeza_buceo collected €0.17 from pot
+*** SUMMARY ***
+Total pot €0.18 | Rake €0.01 
+Board [4d Ac 9s]
+Seat 1: NassLaKlass
+Seat 2: Doods31tlse folded before Flop (didn't bet)
+Seat 3: OvalleAstur folded on the Flop
+Seat 4: sunbreathking (button) folded before Flop (didn't bet)
+Seat 5: cabeza_buceo (small blind) collected (€0.17)
+Seat 6: margezm (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259598463631:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:12:33 CET [2026/02/05 1:12:33 ET]
+Table 'Cyrene' 6-max Seat #5 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 2: Doods31tlse (€2.12 in chips) 
+Seat 3: OvalleAstur (€1.91 in chips) 
+Seat 4: sunbreathking (€1.86 in chips) 
+Seat 5: cabeza_buceo (€2.27 in chips) 
+Seat 6: margezm (€1.84 in chips) 
+margezm: posts small blind €0.01
+Doods31tlse: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [5h 7s]
+OvalleAstur: folds 
+sunbreathking: folds 
+cabeza_buceo: calls €0.02
+margezm: calls €0.01
+Doods31tlse: checks 
+*** FLOP *** [9c 6s Ad]
+margezm: bets €0.03
+Doods31tlse: folds 
+cabeza_buceo: raises €0.03 to €0.06
+margezm: calls €0.03
+*** TURN *** [9c 6s Ad] [3c]
+margezm: bets €0.05
+cabeza_buceo: raises €0.05 to €0.10
+margezm: calls €0.05
+*** RIVER *** [9c 6s Ad 3c] [7d]
+margezm: bets €0.07
+cabeza_buceo: raises €0.23 to €0.30
+margezm: calls €0.23
+*** SHOW DOWN ***
+cabeza_buceo: shows [As Ah] (three of a kind, Aces)
+margezm: mucks hand 
+cabeza_buceo collected €0.92 from pot
+*** SUMMARY ***
+Total pot €0.98 | Rake €0.06 
+Board [9c 6s Ad 3c 7d]
+Seat 1: NassLaKlass
+Seat 2: Doods31tlse (big blind) folded on the Flop
+Seat 3: OvalleAstur folded before Flop (didn't bet)
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: cabeza_buceo (button) showed [As Ah] and won (€0.92) with three of a kind, Aces
+Seat 6: margezm (small blind) mucked [9s 4c]
+
+
+
+PokerStars Hand #259598467626:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:13:37 CET [2026/02/05 1:13:37 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 2: Doods31tlse (€2.10 in chips) 
+Seat 3: OvalleAstur (€1.91 in chips) 
+Seat 4: sunbreathking (€1.86 in chips) 
+Seat 5: cabeza_buceo (€2.71 in chips) 
+Seat 6: margezm (€1.36 in chips) 
+Doods31tlse: posts small blind €0.01
+OvalleAstur: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [9h 7h]
+sunbreathking: folds 
+cabeza_buceo: calls €0.02
+margezm: calls €0.02
+Doods31tlse: folds 
+OvalleAstur: checks 
+*** FLOP *** [9c Jc 6s]
+OvalleAstur: checks 
+cabeza_buceo: checks 
+margezm: checks 
+*** TURN *** [9c Jc 6s] [4c]
+OvalleAstur: checks 
+cabeza_buceo: checks 
+margezm: checks 
+*** RIVER *** [9c Jc 6s 4c] [5c]
+OvalleAstur: checks 
+cabeza_buceo: bets €0.08
+margezm: raises €0.15 to €0.23
+OvalleAstur: folds 
+cabeza_buceo: folds 
+Uncalled bet (€0.15) returned to margezm
+margezm collected €0.22 from pot
+margezm: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.23 | Rake €0.01 
+Board [9c Jc 6s 4c 5c]
+Seat 1: NassLaKlass
+Seat 2: Doods31tlse (small blind) folded before Flop
+Seat 3: OvalleAstur (big blind) folded on the River
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: cabeza_buceo folded on the River
+Seat 6: margezm (button) collected (€0.22)
+
+
+
+PokerStars Hand #259598472027:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:14:47 CET [2026/02/05 1:14:47 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 2: Doods31tlse (€2.09 in chips) 
+Seat 3: OvalleAstur (€1.89 in chips) 
+Seat 4: sunbreathking (€1.86 in chips) 
+Seat 5: cabeza_buceo (€2.61 in chips) 
+Seat 6: margezm (€1.48 in chips) 
+OvalleAstur: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [6c 2d]
+cabeza_buceo: calls €0.02
+margezm: calls €0.02
+Doods31tlse: folds 
+OvalleAstur: calls €0.01
+sunbreathking: checks 
+*** FLOP *** [5d Kd Ts]
+OvalleAstur: checks 
+sunbreathking: checks 
+cabeza_buceo: checks 
+margezm: bets €0.05
+OvalleAstur: folds 
+sunbreathking: folds 
+cabeza_buceo: calls €0.05
+*** TURN *** [5d Kd Ts] [9c]
+cabeza_buceo: checks 
+margezm: bets €0.09
+cabeza_buceo: folds 
+Uncalled bet (€0.09) returned to margezm
+margezm collected €0.17 from pot
+margezm: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.18 | Rake €0.01 
+Board [5d Kd Ts 9c]
+Seat 1: NassLaKlass
+Seat 2: Doods31tlse (button) folded before Flop (didn't bet)
+Seat 3: OvalleAstur (small blind) folded on the Flop
+Seat 4: sunbreathking (big blind) folded on the Flop
+Seat 5: cabeza_buceo folded on the Turn
+Seat 6: margezm collected (€0.17)
+
+
+
+PokerStars Hand #259598475901:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:15:50 CET [2026/02/05 1:15:50 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 2: Doods31tlse (€2.09 in chips) 
+Seat 3: OvalleAstur (€1.87 in chips) 
+Seat 4: sunbreathking (€1.84 in chips) 
+Seat 5: cabeza_buceo (€2.54 in chips) 
+Seat 6: margezm (€1.58 in chips) 
+sunbreathking: posts small blind €0.01
+cabeza_buceo: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [7c 5d]
+margezm: calls €0.02
+Doods31tlse: raises €0.07 to €0.09
+OvalleAstur: folds 
+sunbreathking: folds 
+cabeza_buceo: calls €0.07
+margezm: calls €0.07
+*** FLOP *** [3s 8s 8c]
+cabeza_buceo: checks 
+margezm: checks 
+Doods31tlse: checks 
+*** TURN *** [3s 8s 8c] [Tc]
+cabeza_buceo: checks 
+margezm: checks 
+Doods31tlse: checks 
+*** RIVER *** [3s 8s 8c Tc] [5c]
+cabeza_buceo: checks 
+margezm: bets €0.13
+Doods31tlse: folds 
+cabeza_buceo: folds 
+Uncalled bet (€0.13) returned to margezm
+margezm collected €0.26 from pot
+margezm: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.28 | Rake €0.02 
+Board [3s 8s 8c Tc 5c]
+Seat 1: NassLaKlass
+Seat 2: Doods31tlse folded on the River
+Seat 3: OvalleAstur (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) folded before Flop
+Seat 5: cabeza_buceo (big blind) folded on the River
+Seat 6: margezm collected (€0.26)
+
+
+
+PokerStars Hand #259598479954:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:16:57 CET [2026/02/05 1:16:57 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 2: Doods31tlse (€2 in chips) 
+Seat 3: OvalleAstur (€1.87 in chips) 
+Seat 4: sunbreathking (€1.83 in chips) 
+Seat 5: cabeza_buceo (€2.45 in chips) 
+Seat 6: margezm (€1.75 in chips) 
+cabeza_buceo: posts small blind €0.01
+margezm: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Td Qs]
+Doods31tlse: raises €0.04 to €0.06
+OvalleAstur: calls €0.06
+sunbreathking: folds 
+cabeza_buceo: calls €0.05
+margezm: calls €0.04
+*** FLOP *** [Qh 4s Qc]
+cabeza_buceo: checks 
+margezm: checks 
+Doods31tlse: checks 
+OvalleAstur: checks 
+*** TURN *** [Qh 4s Qc] [Th]
+cabeza_buceo has timed out
+cabeza_buceo: checks 
+margezm: checks 
+Doods31tlse: checks 
+OvalleAstur: checks 
+*** RIVER *** [Qh 4s Qc Th] [Jd]
+cabeza_buceo has timed out
+cabeza_buceo: checks 
+margezm: checks 
+Doods31tlse: bets €0.23
+OvalleAstur: folds 
+cabeza_buceo: folds 
+cabeza_buceo leaves the table
+margezm: folds 
+Uncalled bet (€0.23) returned to Doods31tlse
+Doods31tlse collected €0.23 from pot
+*** SUMMARY ***
+Total pot €0.24 | Rake €0.01 
+Board [Qh 4s Qc Th Jd]
+Seat 1: NassLaKlass
+Seat 2: Doods31tlse collected (€0.23)
+Seat 3: OvalleAstur folded on the River
+Seat 4: sunbreathking (button) folded before Flop (didn't bet)
+Seat 5: cabeza_buceo (small blind) folded on the River
+Seat 6: margezm (big blind) folded on the River
+
+
+
+PokerStars Hand #259598488900:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:19:19 CET [2026/02/05 1:19:19 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 3: OvalleAstur (€1.81 in chips) is sitting out
+Seat 2: Doods31tlse (€2.17 in chips) 
+Seat 4: sunbreathking (€1.83 in chips) 
+Seat 6: margezm (€1.69 in chips) 
+Doods31tlse: posts small blind €0.01
+OvalleAstur: is sitting out 
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [8d Kc]
+margezm: calls €0.02
+Doods31tlse: folds 
+OvalleAstur leaves the table
+sunbreathking: raises €0.04 to €0.06
+margezm: calls €0.04
+*** FLOP *** [Qh Ad 2h]
+sunbreathking: bets €0.10
+margezm: folds 
+Uncalled bet (€0.10) returned to sunbreathking
+sunbreathking collected €0.12 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.13 | Rake €0.01 
+Board [Qh Ad 2h]
+Seat 1: NassLaKlass
+Seat 3: OvalleAstur
+Seat 2: Doods31tlse (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) collected (€0.12)
+Seat 6: margezm (button) folded on the Flop
+
+
+
+PokerStars Hand #259598491021:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:19:53 CET [2026/02/05 1:19:53 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 2: Doods31tlse (€2.16 in chips) 
+Seat 4: sunbreathking (€1.89 in chips) 
+Seat 6: margezm (€1.63 in chips) 
+sunbreathking: posts small blind €0.01
+margezm: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [2d 6d]
+Doods31tlse: raises €0.02 to €0.04
+sunbreathking: folds 
+margezm: calls €0.02
+*** FLOP *** [5d Ac 8d]
+margezm: bets €0.05
+MACRIVA21 joins the table at seat #5 
+Doods31tlse: folds 
+Uncalled bet (€0.05) returned to margezm
+margezm collected €0.08 from pot
+margezm: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.09 | Rake €0.01 
+Board [5d Ac 8d]
+Seat 1: NassLaKlass
+Seat 2: Doods31tlse (button) folded on the Flop
+Seat 4: sunbreathking (small blind) folded before Flop
+Seat 6: margezm (big blind) collected (€0.08)
+
+
+
+PokerStars Hand #259598492229:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:20:12 CET [2026/02/05 1:20:12 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: NassLaKlass (€1.60 in chips) is sitting out
+Seat 5: MACRIVA21 (€2 in chips) is sitting out
+Seat 2: Doods31tlse (€2.12 in chips) 
+Seat 4: sunbreathking (€1.88 in chips) 
+Seat 6: margezm (€1.67 in chips) 
+margezm: posts small blind €0.01
+Doods31tlse: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [4c 5h]
+sunbreathking: folds 
+margezm: calls €0.01
+Doods31tlse: checks 
+*** FLOP *** [Qd Kh 2c]
+LaMino77 joins the table at seat #3 
+margezm: bets €0.05
+Doods31tlse: folds 
+Uncalled bet (€0.05) returned to margezm
+margezm collected €0.04 from pot
+NassLaKlass leaves the table
+margezm: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Board [Qd Kh 2c]
+Seat 1: NassLaKlass
+Seat 5: MACRIVA21
+Seat 2: Doods31tlse (big blind) folded on the Flop
+Seat 4: sunbreathking (button) folded before Flop (didn't bet)
+Seat 6: margezm (small blind) collected (€0.04)
+
+
+
+PokerStars Hand #259598493853:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:20:38 CET [2026/02/05 1:20:38 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 5: MACRIVA21 (€2 in chips) is sitting out
+Seat 2: Doods31tlse (€2.10 in chips) 
+Seat 3: LaMino77 (€2 in chips) 
+Seat 4: sunbreathking (€1.88 in chips) 
+Seat 6: margezm (€1.69 in chips) 
+Doods31tlse: posts small blind €0.01
+LaMino77: posts big blind €0.02
+MACRIVA21: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [7c 4d]
+sunbreathking: folds 
+margezm: folds 
+Doods31tlse: folds 
+Uncalled bet (€0.01) returned to LaMino77
+LaMino77 collected €0.02 from pot
+LaMino77: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.02 | Rake €0 
+Seat 5: MACRIVA21
+Seat 2: Doods31tlse (small blind) folded before Flop
+Seat 3: LaMino77 (big blind) collected (€0.02)
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 6: margezm (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598494757:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:20:52 CET [2026/02/05 1:20:52 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 5: MACRIVA21 (€2 in chips) is sitting out
+Seat 2: Doods31tlse (€2.09 in chips) 
+Seat 3: LaMino77 (€2.01 in chips) 
+Seat 4: sunbreathking (€1.88 in chips) 
+Seat 6: margezm (€1.69 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+MACRIVA21: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [Jd 6d]
+margezm: calls €0.02
+Doods31tlse: folds 
+LaMino77: raises €0.04 to €0.06
+sunbreathking: folds 
+ROJAS_JON joins the table at seat #1 
+margezm: calls €0.04
+*** FLOP *** [Kh 4d 2s]
+LaMino77: checks 
+margezm: bets €0.03
+LaMino77: folds 
+Uncalled bet (€0.03) returned to margezm
+margezm collected €0.13 from pot
+margezm: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.14 | Rake €0.01 
+Board [Kh 4d 2s]
+Seat 5: MACRIVA21
+Seat 2: Doods31tlse (button) folded before Flop (didn't bet)
+Seat 3: LaMino77 (small blind) folded on the Flop
+Seat 4: sunbreathking (big blind) folded before Flop
+Seat 6: margezm collected (€0.13)
+
+
+
+PokerStars Hand #259598497722:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:21:40 CET [2026/02/05 1:21:40 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 1: ROJAS_JON (€0.80 in chips) 
+Seat 2: Doods31tlse (€2.09 in chips) 
+Seat 3: LaMino77 (€2 in chips) 
+Seat 4: sunbreathking (€1.86 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€1.76 in chips) 
+sunbreathking: posts small blind €0.01
+MACRIVA21: posts big blind €0.02
+ROJAS_JON: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [7s 5h]
+margezm: folds 
+ROJAS_JON: raises €0.04 to €0.06
+Doods31tlse: folds 
+LaMino77: calls €0.06
+sunbreathking: folds 
+MACRIVA21: folds 
+*** FLOP *** [Jd 2c 6d]
+ROJAS_JON: checks 
+LaMino77: bets €0.05
+ROJAS_JON: folds 
+Uncalled bet (€0.05) returned to LaMino77
+LaMino77 collected €0.14 from pot
+LaMino77: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.15 | Rake €0.01 
+Board [Jd 2c 6d]
+Seat 1: ROJAS_JON folded on the Flop
+Seat 2: Doods31tlse folded before Flop (didn't bet)
+Seat 3: LaMino77 (button) collected (€0.14)
+Seat 4: sunbreathking (small blind) folded before Flop
+Seat 5: MACRIVA21 (big blind) folded before Flop
+Seat 6: margezm folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598499646:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:22:11 CET [2026/02/05 1:22:11 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: ROJAS_JON (€0.74 in chips) 
+Seat 2: Doods31tlse (€2.09 in chips) 
+Seat 3: LaMino77 (€2.08 in chips) 
+Seat 4: sunbreathking (€1.85 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€1.76 in chips) 
+MACRIVA21: posts small blind €0.01
+margezm: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [4s Kc]
+ROJAS_JON: raises €0.04 to €0.06
+Doods31tlse: folds 
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: folds 
+margezm: calls €0.04
+*** FLOP *** [8s Jh 2d]
+margezm: checks 
+ROJAS_JON: bets €0.06
+margezm: folds 
+Uncalled bet (€0.06) returned to ROJAS_JON
+ROJAS_JON collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.13 | Rake €0.01 
+Board [8s Jh 2d]
+Seat 1: ROJAS_JON collected (€0.12)
+Seat 2: Doods31tlse folded before Flop (didn't bet)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) folded before Flop (didn't bet)
+Seat 5: MACRIVA21 (small blind) folded before Flop
+Seat 6: margezm (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259598501867:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:22:46 CET [2026/02/05 1:22:46 ET]
+Table 'Cyrene' 6-max Seat #5 is the button
+Seat 1: ROJAS_JON (€0.80 in chips) 
+Seat 2: Doods31tlse (€2.09 in chips) 
+Seat 3: LaMino77 (€2.08 in chips) 
+Seat 4: sunbreathking (€1.85 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€1.70 in chips) 
+margezm: posts small blind €0.01
+ROJAS_JON: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [4h 3d]
+Doods31tlse: folds 
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: folds 
+margezm: calls €0.01
+ROJAS_JON: checks 
+*** FLOP *** [3s Ah 8s]
+margezm: checks 
+ROJAS_JON: checks 
+*** TURN *** [3s Ah 8s] [5c]
+margezm: checks 
+ROJAS_JON: checks 
+*** RIVER *** [3s Ah 8s 5c] [3h]
+margezm: checks 
+ROJAS_JON: checks 
+*** SHOW DOWN ***
+margezm: shows [Ks Jd] (a pair of Threes)
+ROJAS_JON: mucks hand 
+margezm collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Board [3s Ah 8s 5c 3h]
+Seat 1: ROJAS_JON (big blind) mucked [2h 9s]
+Seat 2: Doods31tlse folded before Flop (didn't bet)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: MACRIVA21 (button) folded before Flop (didn't bet)
+Seat 6: margezm (small blind) showed [Ks Jd] and won (€0.04) with a pair of Threes
+
+
+
+PokerStars Hand #259598503526:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:23:13 CET [2026/02/05 1:23:13 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 1: ROJAS_JON (€0.78 in chips) 
+Seat 2: Doods31tlse (€2.09 in chips) 
+Seat 3: LaMino77 (€2.08 in chips) 
+Seat 4: sunbreathking (€1.85 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€1.72 in chips) 
+ROJAS_JON: posts small blind €0.01
+Doods31tlse: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [6h 7s]
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: folds 
+margezm: calls €0.02
+ROJAS_JON: folds 
+Doods31tlse: checks 
+*** FLOP *** [2h 3d Ad]
+ROJAS_JON leaves the table
+Doods31tlse: checks 
+margezm: checks 
+*** TURN *** [2h 3d Ad] [2d]
+Doods31tlse: bets €0.03
+margezm: folds 
+Uncalled bet (€0.03) returned to Doods31tlse
+Doods31tlse collected €0.05 from pot
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Board [2h 3d Ad 2d]
+Seat 1: ROJAS_JON (small blind) folded before Flop
+Seat 2: Doods31tlse (big blind) collected (€0.05)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: margezm (button) folded on the Turn
+
+
+
+PokerStars Hand #259598505118:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:23:39 CET [2026/02/05 1:23:39 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 2: Doods31tlse (€2.12 in chips) 
+Seat 3: LaMino77 (€2.08 in chips) 
+Seat 4: sunbreathking (€1.85 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€1.70 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [5h Ks]
+MACRIVA21: calls €0.02
+margezm: calls €0.02
+Doods31tlse: folds 
+LaMino77: folds 
+sunbreathking: checks 
+*** FLOP *** [2s 6c 4c]
+sunbreathking: checks 
+MACRIVA21: checks 
+margezm: checks 
+*** TURN *** [2s 6c 4c] [8s]
+sunbreathking: checks 
+MACRIVA21: checks 
+margezm: checks 
+*** RIVER *** [2s 6c 4c 8s] [8h]
+sunbreathking: checks 
+MACRIVA21: checks 
+margezm: checks 
+*** SHOW DOWN ***
+sunbreathking: shows [5h Ks] (a pair of Eights)
+MACRIVA21: mucks hand 
+margezm: shows [Th 6h] (two pair, Eights and Sixes)
+margezm collected €0.07 from pot
+*** SUMMARY ***
+Total pot €0.07 | Rake €0 
+Board [2s 6c 4c 8s 8h]
+Seat 2: Doods31tlse (button) folded before Flop (didn't bet)
+Seat 3: LaMino77 (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) showed [5h Ks] and lost with a pair of Eights
+Seat 5: MACRIVA21 mucked [9d Td]
+Seat 6: margezm showed [Th 6h] and won (€0.07) with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #259598508542:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:24:35 CET [2026/02/05 1:24:35 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 2: Doods31tlse (€2.12 in chips) 
+Seat 3: LaMino77 (€2.07 in chips) 
+Seat 4: sunbreathking (€1.83 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€1.75 in chips) 
+sunbreathking: posts small blind €0.01
+MACRIVA21: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Ac Ts]
+margezm: calls €0.02
+Doods31tlse: folds 
+LaMino77: folds 
+sunbreathking: raises €0.05 to €0.07
+MACRIVA21: folds 
+margezm: calls €0.05
+*** FLOP *** [8s 5h 6d]
+sunbreathking: bets €0.05
+margezm: calls €0.05
+*** TURN *** [8s 5h 6d] [3s]
+sunbreathking: bets €0.10
+margezm: calls €0.10
+*** RIVER *** [8s 5h 6d 3s] [8d]
+sunbreathking: bets €0.40
+margezm: calls €0.40
+*** SHOW DOWN ***
+sunbreathking: shows [Ac Ts] (a pair of Eights)
+margezm: shows [8h 7s] (three of a kind, Eights)
+margezm collected €1.18 from pot
+*** SUMMARY ***
+Total pot €1.26 | Rake €0.08 
+Board [8s 5h 6d 3s 8d]
+Seat 2: Doods31tlse folded before Flop (didn't bet)
+Seat 3: LaMino77 (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) showed [Ac Ts] and lost with a pair of Eights
+Seat 5: MACRIVA21 (big blind) folded before Flop
+Seat 6: margezm showed [8h 7s] and won (€1.18) with three of a kind, Eights
+
+
+
+PokerStars Hand #259598511806:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:25:27 CET [2026/02/05 1:25:27 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 2: Doods31tlse (€2.12 in chips) 
+Seat 3: LaMino77 (€2.07 in chips) 
+Seat 4: sunbreathking (€1.21 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€2.31 in chips) 
+MACRIVA21: posts small blind €0.01
+margezm: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Tc 4s]
+Doods31tlse: folds 
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: calls €0.01
+margezm: checks 
+*** FLOP *** [Jc 6h 5h]
+MACRIVA21: checks 
+margezm: checks 
+*** TURN *** [Jc 6h 5h] [Th]
+MACRIVA21: checks 
+margezm: checks 
+*** RIVER *** [Jc 6h 5h Th] [4h]
+MACRIVA21: checks 
+margezm: checks 
+*** SHOW DOWN ***
+MACRIVA21: shows [4d Qd] (a pair of Fours)
+margezm: mucks hand 
+MACRIVA21 collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Board [Jc 6h 5h Th 4h]
+Seat 2: Doods31tlse folded before Flop (didn't bet)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) folded before Flop (didn't bet)
+Seat 5: MACRIVA21 (small blind) showed [4d Qd] and won (€0.04) with a pair of Fours
+Seat 6: margezm (big blind) mucked [9c Ad]
+
+
+
+PokerStars Hand #259598513434:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:25:54 CET [2026/02/05 1:25:54 ET]
+Table 'Cyrene' 6-max Seat #5 is the button
+Seat 2: Doods31tlse (€2.12 in chips) 
+Seat 3: LaMino77 (€2.07 in chips) 
+Seat 4: sunbreathking (€1.21 in chips) 
+Seat 5: MACRIVA21 (€2.02 in chips) 
+Seat 6: margezm (€2.29 in chips) 
+margezm: posts small blind €0.01
+Doods31tlse: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [6d 7h]
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: folds 
+margezm: folds 
+Uncalled bet (€0.01) returned to Doods31tlse
+Doods31tlse collected €0.02 from pot
+*** SUMMARY ***
+Total pot €0.02 | Rake €0 
+Seat 2: Doods31tlse (big blind) collected (€0.02)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: MACRIVA21 (button) folded before Flop (didn't bet)
+Seat 6: margezm (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598514224:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:26:07 CET [2026/02/05 1:26:07 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 2: Doods31tlse (€2.13 in chips) 
+Seat 3: LaMino77 (€2.07 in chips) 
+Seat 4: sunbreathking (€1.21 in chips) 
+Seat 5: MACRIVA21 (€2.02 in chips) 
+Seat 6: margezm (€2.28 in chips) 
+Doods31tlse: posts small blind €0.01
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [9d Kd]
+sunbreathking: calls €0.02
+MACRIVA21: calls €0.02
+margezm: calls €0.02
+Doods31tlse: raises €0.12 to €0.14
+LaMino77: folds 
+sunbreathking: calls €0.12
+MACRIVA21: folds 
+margezm: calls €0.12
+*** FLOP *** [2h 9h 9c]
+Doods31tlse: bets €0.29
+sunbreathking: calls €0.29
+margezm: folds 
+*** TURN *** [2h 9h 9c] [Qc]
+Doods31tlse: checks 
+sunbreathking: bets €0.78 and is all-in
+Doods31tlse: folds 
+Uncalled bet (€0.78) returned to sunbreathking
+sunbreathking collected €0.98 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.04 | Rake €0.06 
+Board [2h 9h 9c Qc]
+Seat 2: Doods31tlse (small blind) folded on the Turn
+Seat 3: LaMino77 (big blind) folded before Flop
+Seat 4: sunbreathking collected (€0.98)
+Seat 5: MACRIVA21 folded before Flop
+Seat 6: margezm (button) folded on the Flop
+
+
+
+PokerStars Hand #259598518974:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:27:23 CET [2026/02/05 1:27:23 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 2: Doods31tlse (€2 in chips) 
+Seat 3: LaMino77 (€2.05 in chips) 
+Seat 4: sunbreathking (€1.76 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€2.14 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Js Kd]
+MACRIVA21: folds 
+margezm: calls €0.02
+Doods31tlse: calls €0.02
+LaMino77: calls €0.01
+sunbreathking: raises €0.05 to €0.07
+margezm: calls €0.05
+Doods31tlse: calls €0.05
+LaMino77: folds 
+*** FLOP *** [6s 5c 3s]
+sunbreathking: checks 
+margezm: checks 
+Doods31tlse: bets €0.22
+sunbreathking: folds 
+margezm: calls €0.22
+*** TURN *** [6s 5c 3s] [3h]
+margezm: checks 
+Doods31tlse: bets €0.47
+margezm: calls €0.47
+*** RIVER *** [6s 5c 3s 3h] [Tc]
+margezm: checks 
+Doods31tlse: checks 
+*** SHOW DOWN ***
+margezm: shows [Qc 7c] (a pair of Threes)
+Doods31tlse: shows [8d 8s] (two pair, Eights and Threes)
+Doods31tlse collected €1.51 from pot
+*** SUMMARY ***
+Total pot €1.61 | Rake €0.10 
+Board [6s 5c 3s 3h Tc]
+Seat 2: Doods31tlse (button) showed [8d 8s] and won (€1.51) with two pair, Eights and Threes
+Seat 3: LaMino77 (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) folded on the Flop
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: margezm showed [Qc 7c] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259598522975:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:28:28 CET [2026/02/05 1:28:28 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 2: Doods31tlse (€2.75 in chips) 
+Seat 3: LaMino77 (€2.03 in chips) 
+Seat 4: sunbreathking (€1.69 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€1.38 in chips) 
+sunbreathking: posts small blind €0.01
+MACRIVA21: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Ks Js]
+margezm: calls €0.02
+Doods31tlse: raises €0.07 to €0.09
+cibaou joins the table at seat #1 
+LaMino77: folds 
+sunbreathking: calls €0.08
+MACRIVA21: folds 
+margezm: calls €0.07
+*** FLOP *** [2c As 7h]
+sunbreathking: checks 
+margezm: checks 
+Doods31tlse: checks 
+*** TURN *** [2c As 7h] [6d]
+sunbreathking: checks 
+margezm: checks 
+Doods31tlse: bets €0.18
+sunbreathking: folds 
+margezm: calls €0.18
+*** RIVER *** [2c As 7h 6d] [5h]
+margezm: checks 
+Doods31tlse: bets €0.31
+margezm: calls €0.31
+*** SHOW DOWN ***
+Doods31tlse: shows [Jd Ah] (a pair of Aces)
+margezm: mucks hand 
+Doods31tlse collected €1.19 from pot
+*** SUMMARY ***
+Total pot €1.27 | Rake €0.08 
+Board [2c As 7h 6d 5h]
+Seat 2: Doods31tlse showed [Jd Ah] and won (€1.19) with a pair of Aces
+Seat 3: LaMino77 (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) folded on the Turn
+Seat 5: MACRIVA21 (big blind) folded before Flop
+Seat 6: margezm mucked [5c 4s]
+
+
+
+PokerStars Hand #259598527937:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:29:46 CET [2026/02/05 1:29:46 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: cibaou (€0.80 in chips) is sitting out
+Seat 2: Doods31tlse (€3.36 in chips) 
+Seat 3: LaMino77 (€2.03 in chips) 
+Seat 4: sunbreathking (€1.60 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.80 in chips) 
+MACRIVA21: posts small blind €0.01
+margezm: posts big blind €0.02
+cibaou: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [6c 3h]
+Doods31tlse: folds 
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: calls €0.01
+margezm: checks 
+*** FLOP *** [9d Jd 2h]
+MACRIVA21: checks 
+margezm: bets €0.03
+MACRIVA21: folds 
+Uncalled bet (€0.03) returned to margezm
+margezm collected €0.04 from pot
+margezm: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Board [9d Jd 2h]
+Seat 1: cibaou
+Seat 2: Doods31tlse folded before Flop (didn't bet)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) folded before Flop (didn't bet)
+Seat 5: MACRIVA21 (small blind) folded on the Flop
+Seat 6: margezm (big blind) collected (€0.04)
+
+
+
+PokerStars Hand #259598529691:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:30:15 CET [2026/02/05 1:30:15 ET]
+Table 'Cyrene' 6-max Seat #5 is the button
+Seat 1: cibaou (€0.80 in chips) 
+Seat 2: Doods31tlse (€3.36 in chips) 
+Seat 3: LaMino77 (€2.03 in chips) 
+Seat 4: sunbreathking (€1.60 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.82 in chips) 
+margezm: posts small blind €0.01
+cibaou: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [5h Js]
+Doods31tlse: folds 
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: calls €0.02
+margezm: calls €0.01
+cibaou: checks 
+*** FLOP *** [3d Kh 3h]
+margezm: checks 
+cibaou: bets €0.02
+MACRIVA21: calls €0.02
+margezm: folds 
+*** TURN *** [3d Kh 3h] [5c]
+cibaou: bets €0.02
+MACRIVA21: folds 
+Uncalled bet (€0.02) returned to cibaou
+cibaou collected €0.09 from pot
+cibaou: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0.01 
+Board [3d Kh 3h 5c]
+Seat 1: cibaou (big blind) collected (€0.09)
+Seat 2: Doods31tlse folded before Flop (didn't bet)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: MACRIVA21 (button) folded on the Turn
+Seat 6: margezm (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259598532232:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:30:56 CET [2026/02/05 1:30:56 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 2: Doods31tlse (€3.36 in chips) is sitting out
+Seat 1: cibaou (€0.85 in chips) 
+Seat 3: LaMino77 (€2.03 in chips) 
+Seat 4: sunbreathking (€1.60 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.80 in chips) 
+cibaou: posts small blind €0.01
+Doods31tlse: is sitting out 
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Ad 5s]
+Doods31tlse leaves the table
+sunbreathking: folds 
+MACRIVA21: folds 
+margezm: calls €0.02
+cibaou: calls €0.01
+LaMino77: checks 
+*** FLOP *** [7h 3d Kc]
+cibaou: checks 
+LaMino77: checks 
+margezm: checks 
+*** TURN *** [7h 3d Kc] [6d]
+cibaou: bets €0.02
+LaMino77: calls €0.02
+margezm: calls €0.02
+*** RIVER *** [7h 3d Kc 6d] [Kh]
+cibaou: bets €0.02
+LaMino77: folds 
+margezm: folds 
+Uncalled bet (€0.02) returned to cibaou
+cibaou collected €0.11 from pot
+cibaou: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [7h 3d Kc 6d Kh]
+Seat 2: Doods31tlse
+Seat 1: cibaou (small blind) collected (€0.11)
+Seat 3: LaMino77 (big blind) folded on the River
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: margezm (button) folded on the River
+
+
+
+PokerStars Hand #259598535932:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:31:57 CET [2026/02/05 1:31:57 ET]
+Table 'Cyrene' 6-max Seat #1 is the button
+Seat 1: cibaou (€0.92 in chips) 
+Seat 3: LaMino77 (€2 in chips) 
+Seat 4: sunbreathking (€1.60 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.76 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [6c 3h]
+MACRIVA21: folds 
+margezm: calls €0.02
+cibaou: folds 
+LaMino77: folds 
+sunbreathking: checks 
+*** FLOP *** [4h 9s 2s]
+filou102 joins the table at seat #2 
+sunbreathking: checks 
+margezm: checks 
+*** TURN *** [4h 9s 2s] [6s]
+sunbreathking: checks 
+margezm: checks 
+*** RIVER *** [4h 9s 2s 6s] [Jh]
+sunbreathking: checks 
+margezm: checks 
+*** SHOW DOWN ***
+sunbreathking: shows [6c 3h] (a pair of Sixes)
+margezm: mucks hand 
+sunbreathking collected €0.05 from pot
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Board [4h 9s 2s 6s Jh]
+Seat 1: cibaou (button) folded before Flop (didn't bet)
+Seat 3: LaMino77 (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) showed [6c 3h] and won (€0.05) with a pair of Sixes
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: margezm mucked [8c Kc]
+
+
+
+PokerStars Hand #259598539423:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:32:54 CET [2026/02/05 1:32:54 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 1: cibaou (€0.92 in chips) 
+Seat 2: filou102 (€1.60 in chips) 
+Seat 3: LaMino77 (€2 in chips) 
+Seat 4: sunbreathking (€1.63 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.74 in chips) 
+sunbreathking: posts small blind €0.01
+MACRIVA21: posts big blind €0.02
+filou102: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [2d 7d]
+margezm: calls €0.02
+cibaou: folds 
+filou102: checks 
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: checks 
+*** FLOP *** [As 4s Jc]
+MACRIVA21: checks 
+margezm: checks 
+filou102: checks 
+*** TURN *** [As 4s Jc] [9c]
+MACRIVA21: checks 
+margezm: bets €0.05
+filou102: folds 
+MACRIVA21: folds 
+Uncalled bet (€0.05) returned to margezm
+margezm collected €0.07 from pot
+margezm: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.07 | Rake €0 
+Board [As 4s Jc 9c]
+Seat 1: cibaou folded before Flop (didn't bet)
+Seat 2: filou102 folded on the Turn (didn't bet)
+Seat 3: LaMino77 (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) folded before Flop
+Seat 5: MACRIVA21 (big blind) folded on the Turn
+Seat 6: margezm collected (€0.07)
+
+
+
+PokerStars Hand #259598542796:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:33:50 CET [2026/02/05 1:33:50 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: cibaou (€0.92 in chips) 
+Seat 2: filou102 (€1.58 in chips) 
+Seat 3: LaMino77 (€2 in chips) 
+Seat 4: sunbreathking (€1.62 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.79 in chips) 
+MACRIVA21: posts small blind €0.01
+margezm: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Ad Qd]
+cibaou: raises €0.04 to €0.06
+filou102: raises €0.15 to €0.21
+LaMino77: folds 
+sunbreathking: calls €0.21
+MACRIVA21: folds 
+margezm: folds 
+cibaou: folds 
+*** FLOP *** [2s 2d 4d]
+filou102: bets €0.48
+sunbreathking: calls €0.48
+*** TURN *** [2s 2d 4d] [8d]
+filou102: bets €0.69
+sunbreathking: raises €0.24 to €0.93 and is all-in
+filou102: calls €0.20 and is all-in
+Uncalled bet (€0.04) returned to sunbreathking
+*** RIVER *** [2s 2d 4d 8d] [Tc]
+*** SHOW DOWN ***
+filou102: shows [Jd Ac] (a pair of Deuces)
+sunbreathking: shows [Ad Qd] (a flush, Ace high)
+sunbreathking collected €3.05 from pot
+*** SUMMARY ***
+Total pot €3.25 | Rake €0.20 
+Board [2s 2d 4d 8d Tc]
+Seat 1: cibaou folded before Flop
+Seat 2: filou102 showed [Jd Ac] and lost with a pair of Deuces
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) showed [Ad Qd] and won (€3.05) with a flush, Ace high
+Seat 5: MACRIVA21 (small blind) folded before Flop
+Seat 6: margezm (big blind) folded before Flop
+
+
+
+PokerStars Hand #259598546107:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:34:46 CET [2026/02/05 1:34:46 ET]
+Table 'Cyrene' 6-max Seat #5 is the button
+Seat 2: filou102 (€0 in chips) is sitting out
+Seat 1: cibaou (€0.86 in chips) 
+Seat 3: LaMino77 (€2 in chips) 
+Seat 4: sunbreathking (€3.09 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.77 in chips) 
+margezm: posts small blind €0.01
+cibaou: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [4d 4h]
+LaMino77: folds 
+sunbreathking: raises €0.02 to €0.04
+MACRIVA21: folds 
+filou102 leaves the table
+margezm: calls €0.03
+cibaou: folds 
+*** FLOP *** [9c 4c 8c]
+margezm: checks 
+sunbreathking: bets €0.24
+margezm: calls €0.24
+*** TURN *** [9c 4c 8c] [Jc]
+margezm: checks 
+sunbreathking: checks 
+*** RIVER *** [9c 4c 8c Jc] [Qc]
+margezm: checks 
+sunbreathking: bets €0.50
+margezm: calls €0.49 and is all-in
+Uncalled bet (€0.01) returned to sunbreathking
+*** SHOW DOWN ***
+sunbreathking: shows [4d 4h] (a flush, Queen high)
+margezm: shows [5c 7h] (a flush, Queen high - Five higher)
+margezm collected €1.47 from pot
+*** SUMMARY ***
+Total pot €1.56 | Rake €0.09 
+Board [9c 4c 8c Jc Qc]
+Seat 2: filou102
+Seat 1: cibaou (big blind) folded before Flop
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking showed [4d 4h] and lost with a flush, Queen high
+Seat 5: MACRIVA21 (button) folded before Flop (didn't bet)
+Seat 6: margezm (small blind) showed [5c 7h] and won (€1.47) with a flush, Queen high
+
+
+
+PokerStars Hand #259598551302:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:36:13 CET [2026/02/05 1:36:13 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 1: cibaou (€0.84 in chips) 
+Seat 3: LaMino77 (€2 in chips) 
+Seat 4: sunbreathking (€2.32 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€1.47 in chips) 
+cibaou: posts small blind €0.01
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Qd Jc]
+sunbreathking: raises €0.02 to €0.04
+MACRIVA21: folds 
+margezm: calls €0.04
+cibaou: folds 
+LaMino77: folds 
+*** FLOP *** [3c 8c 5s]
+sunbreathking: bets €0.04
+margezm: calls €0.04
+*** TURN *** [3c 8c 5s] [Qc]
+sunbreathking: bets €0.10
+Mahemar73 joins the table at seat #2 
+margezm: calls €0.10
+*** RIVER *** [3c 8c 5s Qc] [6d]
+sunbreathking: bets €0.37
+margezm: calls €0.37
+*** SHOW DOWN ***
+sunbreathking: shows [Qd Jc] (a pair of Queens)
+margezm: mucks hand 
+sunbreathking collected €1.06 from pot
+*** SUMMARY ***
+Total pot €1.13 | Rake €0.07 
+Board [3c 8c 5s Qc 6d]
+Seat 1: cibaou (small blind) folded before Flop
+Seat 3: LaMino77 (big blind) folded before Flop
+Seat 4: sunbreathking showed [Qd Jc] and won (€1.06) with a pair of Queens
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: margezm (button) mucked [7s 5d]
+
+
+
+PokerStars Hand #259598553510:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:36:51 CET [2026/02/05 1:36:51 ET]
+Table 'Cyrene' 6-max Seat #1 is the button
+Seat 2: Mahemar73 (€2 in chips) is sitting out
+Seat 1: cibaou (€0.83 in chips) 
+Seat 3: LaMino77 (€2 in chips) 
+Seat 4: sunbreathking (€2.83 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.92 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Jc 2d]
+MACRIVA21: folds 
+margezm: calls €0.02
+cibaou: calls €0.02
+LaMino77: folds 
+sunbreathking: checks 
+*** FLOP *** [Tc 5d Kh]
+sunbreathking: checks 
+margezm: checks 
+cibaou: checks 
+*** TURN *** [Tc 5d Kh] [9d]
+sunbreathking: checks 
+margezm: checks 
+cibaou: checks 
+*** RIVER *** [Tc 5d Kh 9d] [7d]
+sunbreathking: checks 
+margezm: checks 
+cibaou: checks 
+*** SHOW DOWN ***
+sunbreathking: shows [Jc 2d] (high card King)
+margezm: shows [8c Qh] (high card King - Queen kicker)
+cibaou: shows [7c Jh] (a pair of Sevens)
+cibaou collected €0.07 from pot
+*** SUMMARY ***
+Total pot €0.07 | Rake €0 
+Board [Tc 5d Kh 9d 7d]
+Seat 2: Mahemar73
+Seat 1: cibaou (button) showed [7c Jh] and won (€0.07) with a pair of Sevens
+Seat 3: LaMino77 (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) showed [Jc 2d] and lost with high card King
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: margezm showed [8c Qh] and lost with high card King
+
+
+
+PokerStars Hand #259598556464:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:37:41 CET [2026/02/05 1:37:41 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 1: cibaou (€0.88 in chips) 
+Seat 2: Mahemar73 (€2 in chips) 
+Seat 3: LaMino77 (€2 in chips) 
+Seat 4: sunbreathking (€2.81 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.90 in chips) 
+sunbreathking: posts small blind €0.01
+MACRIVA21: posts big blind €0.02
+Mahemar73: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [8s 9d]
+margezm: calls €0.02
+cibaou: folds 
+Mahemar73: checks 
+LaMino77: raises €0.06 to €0.08
+sunbreathking: folds 
+MACRIVA21: folds 
+margezm: calls €0.06
+Mahemar73: folds 
+*** FLOP *** [Th 5d 7s]
+margezm: checks 
+LaMino77: bets €0.10
+margezm: calls €0.10
+*** TURN *** [Th 5d 7s] [As]
+margezm: checks 
+LaMino77: bets €0.18
+margezm: calls €0.18
+*** RIVER *** [Th 5d 7s As] [Ad]
+margezm: checks 
+LaMino77: bets €0.12
+margezm: calls €0.12
+*** SHOW DOWN ***
+LaMino77: shows [Ah Ac] (four of a kind, Aces)
+margezm: mucks hand 
+LaMino77 collected €0.95 from pot
+*** SUMMARY ***
+Total pot €1.01 | Rake €0.06 
+Board [Th 5d 7s As Ad]
+Seat 1: cibaou folded before Flop (didn't bet)
+Seat 2: Mahemar73 folded before Flop (didn't bet)
+Seat 3: LaMino77 (button) showed [Ah Ac] and won (€0.95) with four of a kind, Aces
+Seat 4: sunbreathking (small blind) folded before Flop
+Seat 5: MACRIVA21 (big blind) folded before Flop
+Seat 6: margezm mucked [9s 7d]
+
+
+
+PokerStars Hand #259598562881:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:39:27 CET [2026/02/05 1:39:27 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: cibaou (€0.88 in chips) 
+Seat 2: Mahemar73 (€2 in chips) 
+Seat 3: LaMino77 (€2.47 in chips) 
+Seat 4: sunbreathking (€2.80 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.42 in chips) 
+MACRIVA21: posts small blind €0.01
+margezm: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [6h Kc]
+cibaou: folds 
+Mahemar73: folds 
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: folds 
+Uncalled bet (€0.01) returned to margezm
+margezm collected €0.02 from pot
+margezm: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.02 | Rake €0 
+Seat 1: cibaou folded before Flop (didn't bet)
+Seat 2: Mahemar73 folded before Flop (didn't bet)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) folded before Flop (didn't bet)
+Seat 5: MACRIVA21 (small blind) folded before Flop
+Seat 6: margezm (big blind) collected (€0.02)
+
+
+
+PokerStars Hand #259598563763:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:39:42 CET [2026/02/05 1:39:42 ET]
+Table 'Cyrene' 6-max Seat #5 is the button
+Seat 1: cibaou (€0.88 in chips) 
+Seat 2: Mahemar73 (€2 in chips) 
+Seat 3: LaMino77 (€2.47 in chips) 
+Seat 4: sunbreathking (€2.80 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.43 in chips) 
+margezm: posts small blind €0.01
+cibaou: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Ac 4d]
+Mahemar73: folds 
+LaMino77: folds 
+sunbreathking: raises €0.02 to €0.04
+MACRIVA21: folds 
+Mahemar73 is disconnected 
+Mahemar73 leaves the table
+margezm: calls €0.03
+cibaou: calls €0.02
+*** FLOP *** [2d 3c Qh]
+margezm: checks 
+cibaou: checks 
+sunbreathking: checks 
+*** TURN *** [2d 3c Qh] [Ah]
+margezm: checks 
+cibaou: checks 
+sunbreathking: bets €0.05
+margezm: calls €0.05
+cibaou: folds 
+*** RIVER *** [2d 3c Qh Ah] [As]
+margezm: checks 
+sunbreathking: bets €0.34
+margezm: folds 
+Uncalled bet (€0.34) returned to sunbreathking
+sunbreathking collected €0.21 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.22 | Rake €0.01 
+Board [2d 3c Qh Ah As]
+Seat 1: cibaou (big blind) folded on the Turn
+Seat 2: Mahemar73 folded before Flop (didn't bet)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking collected (€0.21)
+Seat 5: MACRIVA21 (button) folded before Flop (didn't bet)
+Seat 6: margezm (small blind) folded on the River
+
+
+
+PokerStars Hand #259598567451:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:40:44 CET [2026/02/05 1:40:44 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 1: cibaou (€0.84 in chips) 
+Seat 3: LaMino77 (€2.47 in chips) 
+Seat 4: sunbreathking (€2.92 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: margezm (€0.34 in chips) 
+cibaou: posts small blind €0.01
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Kd 7c]
+sunbreathking: folds 
+MACRIVA21: folds 
+margezm: calls €0.02
+cibaou: raises €0.06 to €0.08
+LaMino77: folds 
+margezm: calls €0.06
+*** FLOP *** [2s 8c 6s]
+cibaou: bets €0.12
+margezm: calls €0.12
+*** TURN *** [2s 8c 6s] [3d]
+cibaou: bets €0.14
+margezm: calls €0.14 and is all-in
+*** RIVER *** [2s 8c 6s 3d] [4c]
+DAVIDJS3 joins the table at seat #2 
+*** SHOW DOWN ***
+cibaou: shows [Kc Ks] (a pair of Kings)
+margezm: shows [Qd 8s] (a pair of Eights)
+cibaou collected €0.66 from pot
+*** SUMMARY ***
+Total pot €0.70 | Rake €0.04 
+Board [2s 8c 6s 3d 4c]
+Seat 1: cibaou (small blind) showed [Kc Ks] and won (€0.66) with a pair of Kings
+Seat 3: LaMino77 (big blind) folded before Flop
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: margezm (button) showed [Qd 8s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259598569848:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:41:23 CET [2026/02/05 1:41:23 ET]
+Table 'Cyrene' 6-max Seat #1 is the button
+Seat 2: DAVIDJS3 (€2 in chips) is sitting out
+Seat 6: margezm (€0 in chips) is sitting out
+Seat 1: cibaou (€1.16 in chips) 
+Seat 3: LaMino77 (€2.45 in chips) 
+Seat 4: sunbreathking (€2.92 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [3d 6s]
+MACRIVA21: calls €0.02
+cibaou: folds 
+LaMino77: folds 
+sunbreathking: checks 
+*** FLOP *** [Qd 9c Ah]
+sunbreathking: checks 
+MACRIVA21: bets €0.05
+sunbreathking: folds 
+Uncalled bet (€0.05) returned to MACRIVA21
+margezm leaves the table
+MACRIVA21 collected €0.05 from pot
+MACRIVA21: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Board [Qd 9c Ah]
+Seat 2: DAVIDJS3
+Seat 6: margezm
+Seat 1: cibaou (button) folded before Flop (didn't bet)
+Seat 3: LaMino77 (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) folded on the Flop
+Seat 5: MACRIVA21 collected (€0.05)
+
+
+
+PokerStars Hand #259598570773:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:41:39 CET [2026/02/05 1:41:39 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 2: DAVIDJS3 (€2 in chips) is sitting out
+Seat 1: cibaou (€1.16 in chips) 
+Seat 3: LaMino77 (€2.44 in chips) 
+Seat 4: sunbreathking (€2.90 in chips) 
+Seat 5: MACRIVA21 (€2.03 in chips) 
+sunbreathking: posts small blind €0.01
+MACRIVA21: posts big blind €0.02
+DAVIDJS3: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [2d Jc]
+cibaou: calls €0.02
+LaMino77: raises €0.04 to €0.06
+sunbreathking: folds 
+MACRIVA21: folds 
+cibaou: folds 
+Uncalled bet (€0.04) returned to LaMino77
+LaMino77 collected €0.07 from pot
+LaMino77: doesn't show hand 
+DAVIDJS3 leaves the table
+*** SUMMARY ***
+Total pot €0.07 | Rake €0 
+Seat 2: DAVIDJS3
+Seat 1: cibaou folded before Flop
+Seat 3: LaMino77 (button) collected (€0.07)
+Seat 4: sunbreathking (small blind) folded before Flop
+Seat 5: MACRIVA21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259598571619:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:41:53 CET [2026/02/05 1:41:53 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: cibaou (€1.14 in chips) 
+Seat 3: LaMino77 (€2.49 in chips) 
+Seat 4: sunbreathking (€2.89 in chips) 
+Seat 5: MACRIVA21 (€2.01 in chips) 
+MACRIVA21: posts small blind €0.01
+cibaou: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Qd Th]
+LaMino77: raises €0.04 to €0.06
+sunbreathking: calls €0.06
+MACRIVA21: folds 
+cibaou: calls €0.04
+*** FLOP *** [8s 6s 9h]
+cibaou: checks 
+LaMino77: bets €0.09
+sunbreathking: calls €0.09
+cibaou: folds 
+*** TURN *** [8s 6s 9h] [6h]
+LaMino77: checks 
+sunbreathking: checks 
+*** RIVER *** [8s 6s 9h 6h] [3s]
+LaMino77: checks 
+Bonnetti2 joins the table at seat #6 
+sunbreathking: bets €0.22
+LaMino77: folds 
+Uncalled bet (€0.22) returned to sunbreathking
+sunbreathking collected €0.35 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.37 | Rake €0.02 
+Board [8s 6s 9h 6h 3s]
+Seat 1: cibaou (big blind) folded on the Flop
+Seat 3: LaMino77 folded on the River
+Seat 4: sunbreathking (button) collected (€0.35)
+Seat 5: MACRIVA21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598576088:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:43:08 CET [2026/02/05 1:43:08 ET]
+Table 'Cyrene' 6-max Seat #5 is the button
+Seat 6: Bonnetti2 (€0.99 in chips) is sitting out
+Seat 1: cibaou (€1.08 in chips) 
+Seat 3: LaMino77 (€2.34 in chips) 
+Seat 4: sunbreathking (€3.09 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+cibaou: posts small blind €0.01
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [3s Qd]
+sunbreathking: folds 
+MACRIVA21: folds 
+cibaou: raises €0.04 to €0.06
+LaMino77: folds 
+Uncalled bet (€0.04) returned to cibaou
+cibaou collected €0.04 from pot
+cibaou: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 6: Bonnetti2
+Seat 1: cibaou (small blind) collected (€0.04)
+Seat 3: LaMino77 (big blind) folded before Flop
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: MACRIVA21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598576916:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:43:22 CET [2026/02/05 1:43:22 ET]
+Table 'Cyrene' 6-max Seat #1 is the button
+Seat 1: cibaou (€1.10 in chips) 
+Seat 3: LaMino77 (€2.32 in chips) 
+Seat 4: sunbreathking (€3.09 in chips) 
+Seat 5: MACRIVA21 (€2 in chips) 
+Seat 6: Bonnetti2 (€0.99 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+Bonnetti2: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [9c Kh]
+MACRIVA21: calls €0.02
+Bonnetti2: checks 
+cibaou: folds 
+LaMino77: folds 
+sunbreathking: checks 
+*** FLOP *** [Js Kd 4s]
+sunbreathking: bets €0.05
+MACRIVA21: calls €0.05
+Bonnetti2: folds 
+*** TURN *** [Js Kd 4s] [7d]
+sunbreathking: bets €0.05
+MACRIVA21: calls €0.05
+*** RIVER *** [Js Kd 4s 7d] [2d]
+sunbreathking: checks 
+MACRIVA21: bets €0.24
+sunbreathking: calls €0.24
+*** SHOW DOWN ***
+MACRIVA21: shows [Kc Ks] (three of a kind, Kings)
+sunbreathking: mucks hand 
+MACRIVA21 collected €0.71 from pot
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.04 
+Board [Js Kd 4s 7d 2d]
+Seat 1: cibaou (button) folded before Flop (didn't bet)
+Seat 3: LaMino77 (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) mucked [9c Kh]
+Seat 5: MACRIVA21 showed [Kc Ks] and won (€0.71) with three of a kind, Kings
+Seat 6: Bonnetti2 folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #259598579065:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:43:58 CET [2026/02/05 1:43:58 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 5: MACRIVA21 (€2.35 in chips) is sitting out
+Seat 1: cibaou (€1.10 in chips) 
+Seat 3: LaMino77 (€2.31 in chips) 
+Seat 4: sunbreathking (€2.73 in chips) 
+Seat 6: Bonnetti2 (€0.97 in chips) 
+sunbreathking: posts small blind €0.01
+MACRIVA21: is sitting out 
+Bonnetti2: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [8s Kc]
+cibaou: folds 
+LaMino77: folds 
+sunbreathking: raises €0.02 to €0.04
+Bonnetti2: calls €0.02
+*** FLOP *** [Tc 7d 6h]
+sunbreathking: checks 
+Bonnetti2: checks 
+*** TURN *** [Tc 7d 6h] [Qd]
+sunbreathking: bets €0.05
+Bonnetti2: folds 
+Uncalled bet (€0.05) returned to sunbreathking
+sunbreathking collected €0.08 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.08 | Rake €0 
+Board [Tc 7d 6h Qd]
+Seat 5: MACRIVA21
+Seat 1: cibaou folded before Flop (didn't bet)
+Seat 3: LaMino77 (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) collected (€0.08)
+Seat 6: Bonnetti2 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259598580534:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:44:23 CET [2026/02/05 1:44:23 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 5: MACRIVA21 (€2.35 in chips) is sitting out
+Seat 1: cibaou (€1.10 in chips) 
+Seat 3: LaMino77 (€2.31 in chips) 
+Seat 4: sunbreathking (€2.77 in chips) 
+Seat 6: Bonnetti2 (€0.93 in chips) 
+Bonnetti2: posts small blind €0.01
+cibaou: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [3d 9h]
+LaMino77: folds 
+sunbreathking: folds 
+Bonnetti2: calls €0.01
+cibaou: checks 
+*** FLOP *** [As 7d 8c]
+Bonnetti2: checks 
+cibaou: bets €0.04
+Bonnetti2: folds 
+Uncalled bet (€0.04) returned to cibaou
+cibaou collected €0.04 from pot
+cibaou: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Board [As 7d 8c]
+Seat 5: MACRIVA21
+Seat 1: cibaou (big blind) collected (€0.04)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) folded before Flop (didn't bet)
+Seat 6: Bonnetti2 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259598581547:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:44:40 CET [2026/02/05 1:44:40 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 5: MACRIVA21 (€2.35 in chips) is sitting out
+Seat 1: cibaou (€1.12 in chips) 
+Seat 3: LaMino77 (€2.31 in chips) 
+Seat 4: sunbreathking (€2.77 in chips) 
+Seat 6: Bonnetti2 (€0.91 in chips) 
+cibaou: posts small blind €0.01
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Qs 4d]
+sunbreathking: folds 
+Bonnetti2: calls €0.02
+cibaou: folds 
+LaMino77: checks 
+*** FLOP *** [Jc 9c 3c]
+LaMino77: checks 
+Bonnetti2: bets €0.02
+LaMino77: calls €0.02
+*** TURN *** [Jc 9c 3c] [6h]
+LaMino77: checks 
+Bonnetti2: checks 
+*** RIVER *** [Jc 9c 3c 6h] [9d]
+LaMino77: checks 
+Bonnetti2: checks 
+*** SHOW DOWN ***
+LaMino77: shows [Ac 6d] (two pair, Nines and Sixes)
+Bonnetti2: mucks hand 
+LaMino77 collected €0.08 from pot
+*** SUMMARY ***
+Total pot €0.09 | Rake €0.01 
+Board [Jc 9c 3c 6h 9d]
+Seat 5: MACRIVA21
+Seat 1: cibaou (small blind) folded before Flop
+Seat 3: LaMino77 (big blind) showed [Ac 6d] and won (€0.08) with two pair, Nines and Sixes
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 6: Bonnetti2 (button) mucked [7d Ah]
+
+
+
+PokerStars Hand #259598583159:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:45:07 CET [2026/02/05 1:45:07 ET]
+Table 'Cyrene' 6-max Seat #1 is the button
+Seat 5: MACRIVA21 (€2.35 in chips) is sitting out
+Seat 1: cibaou (€1.11 in chips) 
+Seat 3: LaMino77 (€2.35 in chips) 
+Seat 4: sunbreathking (€2.77 in chips) 
+Seat 6: Bonnetti2 (€0.87 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [5h 7d]
+Bonnetti2: folds 
+cibaou: folds 
+LaMino77: raises €0.04 to €0.06
+sunbreathking: calls €0.04
+*** FLOP *** [Kd 9c 8d]
+LaMino77: bets €0.04
+sunbreathking: calls €0.04
+*** TURN *** [Kd 9c 8d] [Jh]
+LaMino77: checks 
+sunbreathking: bets €0.05
+LaMino77: calls €0.05
+*** RIVER *** [Kd 9c 8d Jh] [Qh]
+LaMino77: checks 
+sunbreathking: bets €0.22
+LaMino77: calls €0.22
+*** SHOW DOWN ***
+sunbreathking: shows [5h 7d] (high card King)
+LaMino77: shows [Qc Kh] (two pair, Kings and Queens)
+LaMino77 collected €0.70 from pot
+*** SUMMARY ***
+Total pot €0.74 | Rake €0.04 
+Board [Kd 9c 8d Jh Qh]
+Seat 5: MACRIVA21
+Seat 1: cibaou (button) folded before Flop (didn't bet)
+Seat 3: LaMino77 (small blind) showed [Qc Kh] and won (€0.70) with two pair, Kings and Queens
+Seat 4: sunbreathking (big blind) showed [5h 7d] and lost with high card King
+Seat 6: Bonnetti2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598588889:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:46:44 CET [2026/02/05 1:46:44 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 5: MACRIVA21 (€2.35 in chips) is sitting out
+Seat 1: cibaou (€1.11 in chips) 
+Seat 3: LaMino77 (€2.68 in chips) 
+Seat 4: sunbreathking (€2.40 in chips) 
+Seat 6: Bonnetti2 (€0.87 in chips) 
+sunbreathking: posts small blind €0.01
+Bonnetti2: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [7h 9d]
+cibaou: folds 
+LaMino77: folds 
+sunbreathking: raises €0.02 to €0.04
+Bonnetti2: calls €0.02
+*** FLOP *** [Jh 8s 3h]
+sunbreathking: checks 
+Bonnetti2: bets €0.02
+sunbreathking: folds 
+Uncalled bet (€0.02) returned to Bonnetti2
+Bonnetti2 collected €0.08 from pot
+Bonnetti2: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.08 | Rake €0 
+Board [Jh 8s 3h]
+Seat 5: MACRIVA21
+Seat 1: cibaou folded before Flop (didn't bet)
+Seat 3: LaMino77 (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) folded on the Flop
+Seat 6: Bonnetti2 (big blind) collected (€0.08)
+
+
+
+PokerStars Hand #259598590259:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:47:07 CET [2026/02/05 1:47:07 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 5: MACRIVA21 (€2.35 in chips) is sitting out
+Seat 1: cibaou (€1.11 in chips) 
+Seat 3: LaMino77 (€2.68 in chips) 
+Seat 4: sunbreathking (€2.36 in chips) 
+Seat 6: Bonnetti2 (€0.91 in chips) 
+Bonnetti2: posts small blind €0.01
+cibaou: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [5c 6c]
+LaMino77: folds 
+sunbreathking: raises €0.02 to €0.04
+Bonnetti2: calls €0.03
+cibaou: folds 
+*** FLOP *** [5s Tc Qh]
+Bonnetti2: checks 
+sunbreathking: bets €0.04
+Bonnetti2: folds 
+Uncalled bet (€0.04) returned to sunbreathking
+sunbreathking collected €0.09 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0.01 
+Board [5s Tc Qh]
+Seat 5: MACRIVA21
+Seat 1: cibaou (big blind) folded before Flop
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) collected (€0.09)
+Seat 6: Bonnetti2 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259598591695:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:47:31 CET [2026/02/05 1:47:31 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 5: MACRIVA21 (€2.35 in chips) is sitting out
+Seat 1: cibaou (€1.09 in chips) 
+Seat 3: LaMino77 (€2.68 in chips) 
+Seat 4: sunbreathking (€2.41 in chips) 
+Seat 6: Bonnetti2 (€0.87 in chips) 
+cibaou: posts small blind €0.01
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [7s Qh]
+sunbreathking: folds 
+Bonnetti2: calls €0.02
+cibaou: calls €0.01
+LaMino77: checks 
+*** FLOP *** [Kd Qd Th]
+cibaou: checks 
+Dubois495 joins the table at seat #2 
+LaMino77: checks 
+Bonnetti2: bets €0.04
+cibaou: folds 
+LaMino77: folds 
+Uncalled bet (€0.04) returned to Bonnetti2
+Bonnetti2 collected €0.06 from pot
+Bonnetti2: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.06 | Rake €0 
+Board [Kd Qd Th]
+Seat 5: MACRIVA21
+Seat 1: cibaou (small blind) folded on the Flop
+Seat 3: LaMino77 (big blind) folded on the Flop
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 6: Bonnetti2 (button) collected (€0.06)
+
+
+
+PokerStars Hand #259598593786:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:48:07 CET [2026/02/05 1:48:07 ET]
+Table 'Cyrene' 6-max Seat #1 is the button
+Seat 2: Dubois495 (€1.60 in chips) is sitting out
+Seat 5: MACRIVA21 (€2.35 in chips) is sitting out
+Seat 1: cibaou (€1.07 in chips) 
+Seat 3: LaMino77 (€2.66 in chips) 
+Seat 4: sunbreathking (€2.41 in chips) 
+Seat 6: Bonnetti2 (€0.91 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [5s Qh]
+Bonnetti2: raises €0.02 to €0.04
+cibaou: raises €0.08 to €0.12
+LaMino77: folds 
+sunbreathking: folds 
+Bonnetti2: calls €0.08
+*** FLOP *** [Qs 8h 5d]
+Bonnetti2: checks 
+cibaou: bets €0.10
+Bonnetti2: folds 
+Uncalled bet (€0.10) returned to cibaou
+cibaou collected €0.25 from pot
+cibaou: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.27 | Rake €0.02 
+Board [Qs 8h 5d]
+Seat 2: Dubois495
+Seat 5: MACRIVA21
+Seat 1: cibaou (button) collected (€0.25)
+Seat 3: LaMino77 (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) folded before Flop
+Seat 6: Bonnetti2 folded on the Flop
+
+
+
+PokerStars Hand #259598595343:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:48:34 CET [2026/02/05 1:48:34 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 2: Dubois495 (€1.60 in chips) is sitting out
+Seat 1: cibaou (€1.20 in chips) 
+Seat 3: LaMino77 (€2.65 in chips) 
+Seat 4: sunbreathking (€2.39 in chips) 
+Seat 5: MACRIVA21 (€2.35 in chips) 
+Seat 6: Bonnetti2 (€0.79 in chips) 
+sunbreathking: posts small blind €0.01
+MACRIVA21: posts big blind €0.02
+Dubois495: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [Kh 9c]
+Bonnetti2: folds 
+cibaou: raises €0.04 to €0.06
+LaMino77: folds 
+sunbreathking: calls €0.05
+MACRIVA21: folds 
+*** FLOP *** [6d Qh 7c]
+sunbreathking: checks 
+cibaou: checks 
+*** TURN *** [6d Qh 7c] [7d]
+sunbreathking: checks 
+cibaou: checks 
+*** RIVER *** [6d Qh 7c 7d] [3c]
+sunbreathking: bets €0.05
+cibaou: folds 
+Uncalled bet (€0.05) returned to sunbreathking
+sunbreathking collected €0.13 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.14 | Rake €0.01 
+Board [6d Qh 7c 7d 3c]
+Seat 2: Dubois495
+Seat 1: cibaou folded on the River
+Seat 3: LaMino77 (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) collected (€0.13)
+Seat 5: MACRIVA21 (big blind) folded before Flop
+Seat 6: Bonnetti2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598597161:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:49:05 CET [2026/02/05 1:49:05 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 2: Dubois495 (€1.60 in chips) is sitting out
+Seat 1: cibaou (€1.14 in chips) 
+Seat 3: LaMino77 (€2.65 in chips) 
+Seat 4: sunbreathking (€2.46 in chips) 
+Seat 5: MACRIVA21 (€2.33 in chips) 
+Seat 6: Bonnetti2 (€0.79 in chips) 
+MACRIVA21: posts small blind €0.01
+Bonnetti2: posts big blind €0.02
+Dubois495: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [Tc 5d]
+cibaou: raises €0.04 to €0.06
+LaMino77: folds 
+sunbreathking: calls €0.06
+MACRIVA21: folds 
+Bonnetti2: calls €0.04
+*** FLOP *** [Kc Th Ts]
+Bonnetti2: checks 
+cibaou: checks 
+sunbreathking: checks 
+*** TURN *** [Kc Th Ts] [2h]
+Bonnetti2: checks 
+cibaou: bets €0.04
+sunbreathking: calls €0.04
+Bonnetti2: folds 
+*** RIVER *** [Kc Th Ts 2h] [5s]
+cibaou: checks 
+sunbreathking: bets €0.25
+cibaou: folds 
+Uncalled bet (€0.25) returned to sunbreathking
+sunbreathking collected €0.25 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.27 | Rake €0.02 
+Board [Kc Th Ts 2h 5s]
+Seat 2: Dubois495
+Seat 1: cibaou folded on the River
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) collected (€0.25)
+Seat 5: MACRIVA21 (small blind) folded before Flop
+Seat 6: Bonnetti2 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259598599926:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:49:52 CET [2026/02/05 1:49:52 ET]
+Table 'Cyrene' 6-max Seat #5 is the button
+Seat 2: Dubois495 (€1.60 in chips) is sitting out
+Seat 1: cibaou (€1.04 in chips) 
+Seat 3: LaMino77 (€2.65 in chips) 
+Seat 4: sunbreathking (€2.61 in chips) 
+Seat 5: MACRIVA21 (€2.32 in chips) 
+Seat 6: Bonnetti2 (€0.73 in chips) 
+Bonnetti2: posts small blind €0.01
+cibaou: posts big blind €0.02
+Dubois495: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [2h 9c]
+LaMino77: folds 
+sunbreathking: raises €0.02 to €0.04
+MACRIVA21: folds 
+Bonnetti2: calls €0.03
+cibaou: calls €0.02
+*** FLOP *** [Ad Qc 6d]
+Bonnetti2: checks 
+cibaou: checks 
+sunbreathking: bets €0.08
+Bonnetti2: folds 
+cibaou: calls €0.08
+*** TURN *** [Ad Qc 6d] [Jd]
+cibaou: checks 
+sunbreathking: bets €0.18
+cibaou: folds 
+Uncalled bet (€0.18) returned to sunbreathking
+sunbreathking collected €0.26 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.28 | Rake €0.02 
+Board [Ad Qc 6d Jd]
+Seat 2: Dubois495
+Seat 1: cibaou (big blind) folded on the Turn
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking collected (€0.26)
+Seat 5: MACRIVA21 (button) folded before Flop (didn't bet)
+Seat 6: Bonnetti2 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259598602357:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:50:36 CET [2026/02/05 1:50:36 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 1: cibaou (€0.92 in chips) 
+Seat 2: Dubois495 (€1.60 in chips) 
+Seat 3: LaMino77 (€2.65 in chips) 
+Seat 4: sunbreathking (€2.75 in chips) 
+Seat 5: MACRIVA21 (€2.32 in chips) 
+Seat 6: Bonnetti2 (€0.69 in chips) 
+cibaou: posts small blind €0.01
+Dubois495: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [2h Jd]
+LaMino77: folds 
+sunbreathking: folds 
+MACRIVA21: folds 
+Bonnetti2: calls €0.02
+cibaou: calls €0.01
+Dubois495: raises €0.02 to €0.04
+Bonnetti2: calls €0.02
+cibaou: calls €0.02
+*** FLOP *** [8c 4d 8d]
+cibaou: checks 
+Dubois495: bets €0.02
+Bonnetti2: folds 
+cibaou: folds 
+Uncalled bet (€0.02) returned to Dubois495
+Dubois495 collected €0.11 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [8c 4d 8d]
+Seat 1: cibaou (small blind) folded on the Flop
+Seat 2: Dubois495 (big blind) collected (€0.11)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: Bonnetti2 (button) folded on the Flop
+
+
+
+PokerStars Hand #259598604055:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:51:05 CET [2026/02/05 1:51:05 ET]
+Table 'Cyrene' 6-max Seat #1 is the button
+Seat 1: cibaou (€0.88 in chips) 
+Seat 2: Dubois495 (€1.67 in chips) 
+Seat 3: LaMino77 (€2.65 in chips) 
+Seat 4: sunbreathking (€2.75 in chips) 
+Seat 5: MACRIVA21 (€2.32 in chips) 
+Seat 6: Bonnetti2 (€0.65 in chips) 
+Dubois495: posts small blind €0.01
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Tc Kc]
+sunbreathking: raises €0.02 to €0.04
+MACRIVA21: folds 
+Bonnetti2: raises €0.02 to €0.06
+cibaou: folds 
+Dubois495: calls €0.05
+LaMino77: calls €0.04
+sunbreathking: calls €0.02
+*** FLOP *** [Ks 4h 2d]
+Dubois495: checks 
+LaMino77: checks 
+sunbreathking: checks 
+Bonnetti2: bets €0.10
+Dubois495: folds 
+LaMino77: folds 
+sunbreathking: raises €0.52 to €0.62
+Bonnetti2: calls €0.49 and is all-in
+Uncalled bet (€0.03) returned to sunbreathking
+*** TURN *** [Ks 4h 2d] [Ac]
+*** RIVER *** [Ks 4h 2d Ac] [8s]
+*** SHOW DOWN ***
+sunbreathking: shows [Tc Kc] (a pair of Kings)
+Bonnetti2: shows [As Kh] (two pair, Aces and Kings)
+Bonnetti2 collected €1.33 from pot
+*** SUMMARY ***
+Total pot €1.42 | Rake €0.09 
+Board [Ks 4h 2d Ac 8s]
+Seat 1: cibaou (button) folded before Flop (didn't bet)
+Seat 2: Dubois495 (small blind) folded on the Flop
+Seat 3: LaMino77 (big blind) folded on the Flop
+Seat 4: sunbreathking showed [Tc Kc] and lost with a pair of Kings
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: Bonnetti2 showed [As Kh] and won (€1.33) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #259598607910:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:52:12 CET [2026/02/05 1:52:12 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 1: cibaou (€0.88 in chips) 
+Seat 2: Dubois495 (€1.61 in chips) 
+Seat 3: LaMino77 (€2.59 in chips) 
+Seat 4: sunbreathking (€2.10 in chips) 
+Seat 5: MACRIVA21 (€2.32 in chips) 
+Seat 6: Bonnetti2 (€1.33 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [As Qc]
+MACRIVA21: folds 
+Bonnetti2: calls €0.02
+cibaou: folds 
+Dubois495: folds 
+LaMino77: raises €0.04 to €0.06
+sunbreathking: raises €0.09 to €0.15
+Bonnetti2: calls €0.13
+LaMino77: calls €0.09
+*** FLOP *** [Jc Jh 2s]
+LaMino77: checks 
+sunbreathking: bets €0.25
+Bonnetti2: folds 
+LaMino77: folds 
+Uncalled bet (€0.25) returned to sunbreathking
+sunbreathking collected €0.42 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.45 | Rake €0.03 
+Board [Jc Jh 2s]
+Seat 1: cibaou folded before Flop (didn't bet)
+Seat 2: Dubois495 (button) folded before Flop (didn't bet)
+Seat 3: LaMino77 (small blind) folded on the Flop
+Seat 4: sunbreathking (big blind) collected (€0.42)
+Seat 5: MACRIVA21 folded before Flop (didn't bet)
+Seat 6: Bonnetti2 folded on the Flop
+
+
+
+PokerStars Hand #259598610531:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:52:57 CET [2026/02/05 1:52:57 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 5: MACRIVA21 (€2.32 in chips) is sitting out
+Seat 1: cibaou (€0.88 in chips) 
+Seat 2: Dubois495 (€1.61 in chips) 
+Seat 3: LaMino77 (€2.44 in chips) 
+Seat 4: sunbreathking (€2.37 in chips) 
+Seat 6: Bonnetti2 (€1.18 in chips) 
+sunbreathking: posts small blind €0.01
+MACRIVA21: is sitting out 
+Bonnetti2: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Qd Kh]
+cibaou: folds 
+Dubois495: calls €0.02
+LaMino77: folds 
+MACRIVA21 leaves the table
+sunbreathking: raises €0.05 to €0.07
+Bonnetti2: folds 
+Dubois495: calls €0.05
+*** FLOP *** [6d 7h 2s]
+sunbreathking: checks 
+Dubois495: checks 
+*** TURN *** [6d 7h 2s] [Jd]
+sunbreathking: checks 
+Dubois495: checks 
+*** RIVER *** [6d 7h 2s Jd] [8c]
+sunbreathking: bets €0.05
+Dubois495: calls €0.05
+*** SHOW DOWN ***
+sunbreathking: shows [Qd Kh] (high card King)
+Dubois495: mucks hand 
+sunbreathking collected €0.24 from pot
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.02 
+Board [6d 7h 2s Jd 8c]
+Seat 5: MACRIVA21
+Seat 1: cibaou folded before Flop (didn't bet)
+Seat 2: Dubois495 mucked [Ts 3c]
+Seat 3: LaMino77 (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) showed [Qd Kh] and won (€0.24) with high card King
+Seat 6: Bonnetti2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259598613838:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:53:54 CET [2026/02/05 1:53:54 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: cibaou (€0.88 in chips) 
+Seat 2: Dubois495 (€1.49 in chips) 
+Seat 3: LaMino77 (€2.44 in chips) 
+Seat 4: sunbreathking (€2.49 in chips) 
+Seat 6: Bonnetti2 (€1.16 in chips) 
+Bonnetti2: posts small blind €0.01
+cibaou: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Qd Kh]
+Dubois495: calls €0.02
+LaMino77: raises €0.04 to €0.06
+sunbreathking: calls €0.06
+Bonnetti2: folds 
+cibaou: folds 
+Dubois495: calls €0.04
+*** FLOP *** [Td Tc Ks]
+Dubois495: bets €0.10
+LaMino77: folds 
+sunbreathking: calls €0.10
+*** TURN *** [Td Tc Ks] [8s]
+Dubois495: bets €0.39
+sunbreathking: calls €0.39
+*** RIVER *** [Td Tc Ks 8s] [4d]
+Dubois495: checks 
+sunbreathking: checks 
+*** SHOW DOWN ***
+Dubois495: shows [Qh 6d] (a pair of Tens)
+sunbreathking: shows [Qd Kh] (two pair, Kings and Tens)
+sunbreathking collected €1.12 from pot
+*** SUMMARY ***
+Total pot €1.19 | Rake €0.07 
+Board [Td Tc Ks 8s 4d]
+Seat 1: cibaou (big blind) folded before Flop
+Seat 2: Dubois495 showed [Qh 6d] and lost with a pair of Tens
+Seat 3: LaMino77 folded on the Flop
+Seat 4: sunbreathking (button) showed [Qd Kh] and won (€1.12) with two pair, Kings and Tens
+Seat 6: Bonnetti2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598617227:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:54:52 CET [2026/02/05 1:54:52 ET]
+Table 'Cyrene' 6-max Seat #6 is the button
+Seat 1: cibaou (€0.86 in chips) 
+Seat 2: Dubois495 (€0.94 in chips) 
+Seat 3: LaMino77 (€2.38 in chips) 
+Seat 4: sunbreathking (€3.06 in chips) 
+Seat 6: Bonnetti2 (€1.15 in chips) 
+cibaou: posts small blind €0.01
+Dubois495: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [7c 4s]
+LaMino77: folds 
+sunbreathking: raises €0.04 to €0.06
+Bonnetti2: folds 
+cibaou: folds 
+Dubois495: calls €0.04
+*** FLOP *** [6s Qs 3h]
+Dubois495: checks 
+sunbreathking: checks 
+*** TURN *** [6s Qs 3h] [6h]
+Dubois495: checks 
+sunbreathking: checks 
+*** RIVER *** [6s Qs 3h 6h] [2s]
+Dubois495: checks 
+sunbreathking: bets €0.08
+Dubois495: calls €0.08
+*** SHOW DOWN ***
+sunbreathking: shows [7c 4s] (a pair of Sixes)
+Dubois495: shows [9s 8h] (a pair of Sixes - Queen+Nine kicker)
+Dubois495 collected €0.27 from pot
+*** SUMMARY ***
+Total pot €0.29 | Rake €0.02 
+Board [6s Qs 3h 6h 2s]
+Seat 1: cibaou (small blind) folded before Flop
+Seat 2: Dubois495 (big blind) showed [9s 8h] and won (€0.27) with a pair of Sixes
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking showed [7c 4s] and lost with a pair of Sixes
+Seat 6: Bonnetti2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598619320:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:55:31 CET [2026/02/05 1:55:31 ET]
+Table 'Cyrene' 6-max Seat #1 is the button
+Seat 1: cibaou (€0.85 in chips) 
+Seat 2: Dubois495 (€1.07 in chips) 
+Seat 3: LaMino77 (€2.38 in chips) 
+Seat 4: sunbreathking (€2.92 in chips) 
+Seat 6: Bonnetti2 (€1.15 in chips) 
+Dubois495: posts small blind €0.01
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [4d Kh]
+sunbreathking: folds 
+Bonnetti2: folds 
+cibaou: folds 
+Dubois495: folds 
+Uncalled bet (€0.01) returned to LaMino77
+LaMino77 collected €0.02 from pot
+LaMino77: doesn't show hand 
+grandzav joins the table at seat #5 
+*** SUMMARY ***
+Total pot €0.02 | Rake €0 
+Seat 1: cibaou (button) folded before Flop (didn't bet)
+Seat 2: Dubois495 (small blind) folded before Flop
+Seat 3: LaMino77 (big blind) collected (€0.02)
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 6: Bonnetti2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598619816:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:55:41 CET [2026/02/05 1:55:41 ET]
+Table 'Cyrene' 6-max Seat #2 is the button
+Seat 5: grandzav (€1.60 in chips) is sitting out
+Seat 1: cibaou (€0.85 in chips) 
+Seat 2: Dubois495 (€1.06 in chips) 
+Seat 3: LaMino77 (€2.39 in chips) 
+Seat 4: sunbreathking (€2.92 in chips) 
+Seat 6: Bonnetti2 (€1.15 in chips) 
+LaMino77: posts small blind €0.01
+sunbreathking: posts big blind €0.02
+grandzav: sits out 
+*** HOLE CARDS ***
+Dealt to sunbreathking [Ah 7d]
+Bonnetti2: raises €0.04 to €0.06
+cibaou: calls €0.06
+Dubois495: calls €0.06
+LaMino77: folds 
+sunbreathking: calls €0.04
+*** FLOP *** [9h 3d Qd]
+sunbreathking: checks 
+Bonnetti2: bets €0.10
+cibaou: calls €0.10
+Dubois495: raises €0.10 to €0.20
+sunbreathking: folds 
+Bonnetti2: raises €0.89 to €1.09 and is all-in
+cibaou: folds 
+Dubois495: calls €0.80 and is all-in
+Uncalled bet (€0.09) returned to Bonnetti2
+*** TURN *** [9h 3d Qd] [6c]
+*** RIVER *** [9h 3d Qd 6c] [3h]
+*** SHOW DOWN ***
+Bonnetti2: shows [Qs Qc] (a full house, Queens full of Threes)
+Dubois495: shows [Qh 2c] (two pair, Queens and Threes)
+Bonnetti2 collected €2.21 from pot
+*** SUMMARY ***
+Total pot €2.35 | Rake €0.14 
+Board [9h 3d Qd 6c 3h]
+Seat 5: grandzav
+Seat 1: cibaou folded on the Flop
+Seat 2: Dubois495 (button) showed [Qh 2c] and lost with two pair, Queens and Threes
+Seat 3: LaMino77 (small blind) folded before Flop
+Seat 4: sunbreathking (big blind) folded on the Flop
+Seat 6: Bonnetti2 showed [Qs Qc] and won (€2.21) with a full house, Queens full of Threes
+
+
+
+PokerStars Hand #259598621541:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:56:14 CET [2026/02/05 1:56:14 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 2: Dubois495 (€0 in chips) is sitting out
+Seat 1: cibaou (€0.69 in chips) 
+Seat 3: LaMino77 (€2.38 in chips) 
+Seat 4: sunbreathking (€2.86 in chips) 
+Seat 5: grandzav (€1.60 in chips) 
+Seat 6: Bonnetti2 (€2.30 in chips) 
+sunbreathking: posts small blind €0.01
+grandzav: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [Th 7c]
+Bonnetti2: folds 
+cibaou: raises €0.04 to €0.06
+LaMino77: folds 
+sunbreathking: calls €0.05
+grandzav: calls €0.04
+*** FLOP *** [2h Js Ad]
+sunbreathking: checks 
+Dubois495 is disconnected 
+grandzav: checks 
+Bonnetti2 leaves the table
+cibaou: bets €0.08
+sunbreathking: folds 
+grandzav: folds 
+Uncalled bet (€0.08) returned to cibaou
+cibaou collected €0.17 from pot
+cibaou: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.18 | Rake €0.01 
+Board [2h Js Ad]
+Seat 2: Dubois495
+Seat 1: cibaou collected (€0.17)
+Seat 3: LaMino77 (button) folded before Flop (didn't bet)
+Seat 4: sunbreathking (small blind) folded on the Flop
+Seat 5: grandzav (big blind) folded on the Flop
+Seat 6: Bonnetti2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598622680:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:56:36 CET [2026/02/05 1:56:36 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 1: cibaou (€0.80 in chips) 
+Seat 2: Dubois495 (€0.80 in chips) 
+Seat 3: LaMino77 (€2.38 in chips) 
+Seat 4: sunbreathking (€2.80 in chips) 
+Seat 5: grandzav (€1.54 in chips) 
+grandzav: posts small blind €0.01
+cibaou: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [6c 8c]
+Dubois495 has timed out while disconnected
+Dubois495: folds 
+LaMino77: folds 
+sunbreathking: raises €0.02 to €0.04
+grandzav: folds 
+cibaou: folds 
+Uncalled bet (€0.02) returned to sunbreathking
+sunbreathking collected €0.05 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: cibaou (big blind) folded before Flop
+Seat 2: Dubois495 folded before Flop (didn't bet)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) collected (€0.05)
+Seat 5: grandzav (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598623679:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:56:55 CET [2026/02/05 1:56:55 ET]
+Table 'Cyrene' 6-max Seat #5 is the button
+Seat 1: cibaou (€0.78 in chips) 
+Seat 2: Dubois495 (€0.80 in chips) 
+Seat 3: LaMino77 (€2.38 in chips) 
+Seat 4: sunbreathking (€2.83 in chips) 
+Seat 5: grandzav (€1.53 in chips) 
+cibaou: posts small blind €0.01
+Dubois495: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [7s 4h]
+LaMino77: folds 
+sunbreathking: folds 
+grandzav: folds 
+cibaou: raises €0.04 to €0.06
+Dubois495: calls €0.04
+*** FLOP *** [7c 2d Qc]
+cibaou: bets €0.10
+Dubois495: folds 
+Uncalled bet (€0.10) returned to cibaou
+cibaou collected €0.11 from pot
+cibaou: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [7c 2d Qc]
+Seat 1: cibaou (small blind) collected (€0.11)
+Seat 2: Dubois495 (big blind) folded on the Flop
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: grandzav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598624900:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:57:19 CET [2026/02/05 1:57:19 ET]
+Table 'Cyrene' 6-max Seat #1 is the button
+Seat 1: cibaou (€0.83 in chips) 
+Seat 2: Dubois495 (€0.74 in chips) 
+Seat 3: LaMino77 (€2.38 in chips) 
+Seat 4: sunbreathking (€2.83 in chips) 
+Seat 5: grandzav (€1.53 in chips) 
+Dubois495: posts small blind €0.01
+LaMino77: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [6c Td]
+sunbreathking: folds 
+grandzav: raises €0.04 to €0.06
+cibaou: calls €0.06
+Dubois495: raises €0.04 to €0.10
+LaMino77: folds 
+grandzav: calls €0.04
+cibaou: calls €0.04
+*** FLOP *** [5s 3s 8s]
+Dubois495: bets €0.30
+grandzav: raises €0.30 to €0.60
+cibaou: folds 
+Dubois495: raises €0.04 to €0.64 and is all-in
+grandzav: calls €0.04
+*** TURN *** [5s 3s 8s] [4s]
+*** RIVER *** [5s 3s 8s 4s] [7h]
+*** SHOW DOWN ***
+Dubois495: shows [8d Ah] (a pair of Eights)
+grandzav: shows [Ts Js] (a flush, Jack high)
+grandzav collected €1.50 from pot
+*** SUMMARY ***
+Total pot €1.60 | Rake €0.10 
+Board [5s 3s 8s 4s 7h]
+Seat 1: cibaou (button) folded on the Flop
+Seat 2: Dubois495 (small blind) showed [8d Ah] and lost with a pair of Eights
+Seat 3: LaMino77 (big blind) folded before Flop
+Seat 4: sunbreathking folded before Flop (didn't bet)
+Seat 5: grandzav showed [Ts Js] and won (€1.50) with a flush, Jack high
+
+
+
+PokerStars Hand #259598626472:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:57:49 CET [2026/02/05 1:57:49 ET]
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 2: Dubois495 (€0 in chips) is sitting out
+Seat 1: cibaou (€0.73 in chips) 
+Seat 3: LaMino77 (€2.36 in chips) 
+Seat 4: sunbreathking (€2.83 in chips) 
+Seat 5: grandzav (€2.29 in chips) 
+sunbreathking: posts small blind €0.01
+grandzav: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [As 9d]
+cibaou: folds 
+LaMino77: raises €0.04 to €0.06
+sunbreathking: calls €0.05
+grandzav: calls €0.04
+*** FLOP *** [3s 8h 2s]
+sunbreathking: checks 
+grandzav: checks 
+Dubois495 is disconnected 
+LaMino77: bets €0.09
+sunbreathking: raises €0.11 to €0.20
+pucelay.29 joins the table at seat #6 
+grandzav: folds 
+LaMino77: calls €0.11
+*** TURN *** [3s 8h 2s] [Jh]
+sunbreathking: checks 
+LaMino77: bets €0.28
+sunbreathking: calls €0.28
+*** RIVER *** [3s 8h 2s Jh] [Td]
+sunbreathking: bets €1.07
+LaMino77: calls €1.07
+*** SHOW DOWN ***
+sunbreathking: shows [As 9d] (high card Ace)
+LaMino77: shows [Js 8s] (two pair, Jacks and Eights)
+LaMino77 collected €3.18 from pot
+*** SUMMARY ***
+Total pot €3.28 | Rake €0.10 
+Board [3s 8h 2s Jh Td]
+Seat 2: Dubois495
+Seat 1: cibaou folded before Flop (didn't bet)
+Seat 3: LaMino77 (button) showed [Js 8s] and won (€3.18) with two pair, Jacks and Eights
+Seat 4: sunbreathking (small blind) showed [As 9d] and lost with high card Ace
+Seat 5: grandzav (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259598630190:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:59:00 CET [2026/02/05 1:59:00 ET]
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 2: Dubois495 (€0 in chips) is sitting out
+Seat 1: cibaou (€0.73 in chips) 
+Seat 3: LaMino77 (€3.93 in chips) 
+Seat 4: sunbreathking (€1.22 in chips) 
+Seat 5: grandzav (€2.23 in chips) 
+Seat 6: pucelay.29 (€2 in chips) 
+grandzav: posts small blind €0.01
+pucelay.29: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to sunbreathking [7s Jd]
+cibaou: folds 
+LaMino77: folds 
+sunbreathking: raises €1.20 to €1.22 and is all-in
+grandzav: folds 
+pucelay.29: folds 
+Uncalled bet (€1.20) returned to sunbreathking
+sunbreathking collected €0.05 from pot
+sunbreathking: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 2: Dubois495
+Seat 1: cibaou folded before Flop (didn't bet)
+Seat 3: LaMino77 folded before Flop (didn't bet)
+Seat 4: sunbreathking (button) collected (€0.05)
+Seat 5: grandzav (small blind) folded before Flop
+Seat 6: pucelay.29 (big blind) folded before Flop
+
+
+

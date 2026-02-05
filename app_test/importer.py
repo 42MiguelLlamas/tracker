@@ -4,29 +4,48 @@ import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional, Tuple, Dict, List
+import re
 
 from .db import DB
 
-HAND_START_PREFIXES = [
-    b"PokerStars Hand #",
-    b"PokerStars Game #"
-]
+
+HAND_START_RE = re.compile(rb"""
+                           (?m)^(?:\xef\xbb\xbf)?PokerStars\s+Hand\s+\#(?P<hand_id>\d+):\s*
+                           (?:
+                                Tournament\s+\#(?P<tournament_id>\d+),.*?
+                                (?P<buy_in>(?:[^\d]+)?\d+(?:\.\d+)?\+(?:[^\d]+)?\d+(?:\.\d+)?)\s+(?P<cur>[A-Z]{3}).*?
+                            |
+                                .*?\((?P<stakes>(?:[^\d]+)?\d+(?:\.\d+)?/(?:[^\d]+)?\d+(?:\.\d+)?)\s+(?P<cur_cash>[A-Z]{3})\).*?   
+                           )
+                           \s*-\s*
+                           (?P<local_dt>\d{4}/\d{2}/\d{2}\s+\d{1,2}:\d{2}:\d{2})\s+(?P<local_tz>[A-Z]{2,5})
+                           """, 
+                           re.VERBOSE)
+
+TABLE_START_RE = re.compile(rb"""
+                            (?m)^Table\s+'.*?'\s+(?P<max_seats>\d+)-max\s+Seat\s+\#(?P<btn_pos>\d+)\s+is\s+the\s+button\s*$
+                            """, 
+                           re.VERBOSE)
+
+SEAT_RE = re.compile(rb"""
+                        (?m)^Seat\s+(?P<seat_no>\d+):\s+(?P<player_name>.+?)\s+\((?P<chips>(?:[^\d]+)?\d+(?:\.\d+)?)\s+in\s+chips\)\s*$
+                     """, 
+                    re.VERBOSE)
+
+POST_RE = re.compile(rb"""
+                        (?m)^(?P<player_name>.+?):\s+posts\s+(?P<kind>the\s+ante|small\s+blind|big\s+blind).+?(?P<amount>\d+(?:\.\d+)?)\s*$
+                     """, 
+                    re.VERBOSE)
+
+HOLE_CARDS = re.compile(rb"""
+                        (?m)^\*\*\*\s+HOLE\s+CARDS\s+\*\*\*\s*$
+                     """, 
+                    re.VERBOSE)
+
 
 def find_hand_starts(data:bytes) -> List[int]:
-    starts: List[int] = []
-    for pref in HAND_START_PREFIXES:
-        if data.startswith(pref):
-            starts.append(0)
-        needle = b"\n" + pref
-        pos = 0
-        while True:
-            i = data.find(needle, pos)
-            if i == -1:
-                break
-            starts.append(i + 1)
-            pos = i + 1
-    starts = sorted(set(starts))
-    return starts
+    return [m.start() for m in HAND_START_RE.finditer(data)]
+
 
 def split_complete_hands(buffer_bytes: bytes) -> Tuple[List[bytes], bytes]:
     starts = find_hand_starts(buffer_bytes)

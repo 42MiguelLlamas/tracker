@@ -1,0 +1,347 @@
+﻿PokerStars Hand #259598468053: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 7:13:44 CET [2026/02/05 1:13:44 ET]
+Table '3972225632 1' 3-max Seat #1 is the button
+Seat 1: fritinz (500 in chips) 
+Seat 2: Bilal34877 (500 in chips) 
+Seat 3: sunbreathking (500 in chips) 
+Bilal34877: posts small blind 10
+sunbreathking: posts big blind 20
+*** HOLE CARDS ***
+Dealt to sunbreathking [9h 7c]
+fritinz: calls 20
+Bilal34877: raises 480 to 500 and is all-in
+sunbreathking: folds 
+fritinz: folds 
+Uncalled bet (480) returned to Bilal34877
+Bilal34877 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: fritinz (button) folded before Flop
+Seat 2: Bilal34877 (small blind) collected (60)
+Seat 3: sunbreathking (big blind) folded before Flop
+
+
+
+PokerStars Hand #259598469639: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 7:14:09 CET [2026/02/05 1:14:09 ET]
+Table '3972225632 1' 3-max Seat #2 is the button
+Seat 1: fritinz (480 in chips) 
+Seat 2: Bilal34877 (540 in chips) 
+Seat 3: sunbreathking (480 in chips) 
+sunbreathking: posts small blind 10
+fritinz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to sunbreathking [2h 9c]
+Bilal34877: raises 520 to 540 and is all-in
+sunbreathking: folds 
+fritinz: folds 
+Uncalled bet (520) returned to Bilal34877
+Bilal34877 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: fritinz (big blind) folded before Flop
+Seat 2: Bilal34877 (button) collected (50)
+Seat 3: sunbreathking (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598470776: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 7:14:28 CET [2026/02/05 1:14:28 ET]
+Table '3972225632 1' 3-max Seat #3 is the button
+Seat 1: fritinz (460 in chips) 
+Seat 2: Bilal34877 (570 in chips) 
+Seat 3: sunbreathking (470 in chips) 
+fritinz: posts small blind 10
+Bilal34877: posts big blind 20
+*** HOLE CARDS ***
+Dealt to sunbreathking [2s 9c]
+sunbreathking: folds 
+fritinz: calls 10
+Bilal34877: raises 550 to 570 and is all-in
+fritinz: folds 
+Uncalled bet (550) returned to Bilal34877
+Bilal34877 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: fritinz (small blind) folded before Flop
+Seat 2: Bilal34877 (big blind) collected (40)
+Seat 3: sunbreathking (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259598471590: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 7:14:40 CET [2026/02/05 1:14:40 ET]
+Table '3972225632 1' 3-max Seat #1 is the button
+Seat 1: fritinz (440 in chips) 
+Seat 2: Bilal34877 (590 in chips) 
+Seat 3: sunbreathking (470 in chips) 
+Bilal34877: posts small blind 10
+sunbreathking: posts big blind 20
+*** HOLE CARDS ***
+Dealt to sunbreathking [8d Ad]
+fritinz: calls 20
+Bilal34877: raises 570 to 590 and is all-in
+sunbreathking: calls 450 and is all-in
+fritinz: calls 420 and is all-in
+Uncalled bet (120) returned to Bilal34877
+*** FLOP *** [Td Qc Jc]
+*** TURN *** [Td Qc Jc] [5c]
+*** RIVER *** [Td Qc Jc 5c] [As]
+*** SHOW DOWN ***
+Bilal34877: shows [2c 5h] (a pair of Fives)
+sunbreathking: shows [8d Ad] (a pair of Aces)
+sunbreathking collected 60 from side pot
+fritinz: shows [Qs 3d] (a pair of Queens)
+sunbreathking collected 1320 from main pot
+fritinz finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1380 Main pot 1320. Side pot 60. | Rake 0 
+Board [Td Qc Jc 5c As]
+Seat 1: fritinz (button) showed [Qs 3d] and lost with a pair of Queens
+Seat 2: Bilal34877 (small blind) showed [2c 5h] and lost with a pair of Fives
+Seat 3: sunbreathking (big blind) showed [8d Ad] and won (1380) with a pair of Aces
+
+
+
+PokerStars Hand #259598473722: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 7:15:15 CET [2026/02/05 1:15:15 ET]
+Table '3972225632 1' 3-max Seat #3 is the button
+Seat 2: Bilal34877 (120 in chips) 
+Seat 3: sunbreathking (1380 in chips) 
+sunbreathking: posts small blind 10
+Bilal34877: posts big blind 20
+*** HOLE CARDS ***
+Dealt to sunbreathking [3h 8c]
+sunbreathking: folds 
+Uncalled bet (10) returned to Bilal34877
+Bilal34877 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Bilal34877 (big blind) collected (20)
+Seat 3: sunbreathking (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598474136: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 7:15:22 CET [2026/02/05 1:15:22 ET]
+Table '3972225632 1' 3-max Seat #2 is the button
+Seat 2: Bilal34877 (130 in chips) 
+Seat 3: sunbreathking (1370 in chips) 
+Bilal34877: posts small blind 10
+sunbreathking: posts big blind 20
+*** HOLE CARDS ***
+Dealt to sunbreathking [4h Tc]
+Bilal34877: raises 110 to 130 and is all-in
+sunbreathking: folds 
+Uncalled bet (110) returned to Bilal34877
+Bilal34877 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Bilal34877 (button) (small blind) collected (40)
+Seat 3: sunbreathking (big blind) folded before Flop
+
+
+
+PokerStars Hand #259598474727: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 7:15:31 CET [2026/02/05 1:15:31 ET]
+Table '3972225632 1' 3-max Seat #3 is the button
+Seat 2: Bilal34877 (150 in chips) 
+Seat 3: sunbreathking (1350 in chips) 
+sunbreathking: posts small blind 10
+Bilal34877: posts big blind 20
+*** HOLE CARDS ***
+Dealt to sunbreathking [Js 7s]
+sunbreathking: folds 
+Uncalled bet (10) returned to Bilal34877
+Bilal34877 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Bilal34877 (big blind) collected (20)
+Seat 3: sunbreathking (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598475093: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 7:15:37 CET [2026/02/05 1:15:37 ET]
+Table '3972225632 1' 3-max Seat #2 is the button
+Seat 2: Bilal34877 (160 in chips) 
+Seat 3: sunbreathking (1340 in chips) 
+Bilal34877: posts small blind 10
+sunbreathking: posts big blind 20
+*** HOLE CARDS ***
+Dealt to sunbreathking [4h Jh]
+Bilal34877: raises 140 to 160 and is all-in
+sunbreathking: folds 
+Uncalled bet (140) returned to Bilal34877
+Bilal34877 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Bilal34877 (button) (small blind) collected (40)
+Seat 3: sunbreathking (big blind) folded before Flop
+
+
+
+PokerStars Hand #259598476117: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 7:15:54 CET [2026/02/05 1:15:54 ET]
+Table '3972225632 1' 3-max Seat #3 is the button
+Seat 2: Bilal34877 (180 in chips) 
+Seat 3: sunbreathking (1320 in chips) 
+sunbreathking: posts small blind 15
+Bilal34877: posts big blind 30
+*** HOLE CARDS ***
+Dealt to sunbreathking [9s 7c]
+sunbreathking: calls 15
+Bilal34877: raises 150 to 180 and is all-in
+sunbreathking: folds 
+Uncalled bet (150) returned to Bilal34877
+Bilal34877 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Bilal34877 (big blind) collected (60)
+Seat 3: sunbreathking (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598476813: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 7:16:05 CET [2026/02/05 1:16:05 ET]
+Table '3972225632 1' 3-max Seat #2 is the button
+Seat 2: Bilal34877 (210 in chips) 
+Seat 3: sunbreathking (1290 in chips) 
+Bilal34877: posts small blind 15
+sunbreathking: posts big blind 30
+*** HOLE CARDS ***
+Dealt to sunbreathking [Qh 8s]
+Bilal34877: raises 180 to 210 and is all-in
+sunbreathking: folds 
+Uncalled bet (180) returned to Bilal34877
+Bilal34877 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Bilal34877 (button) (small blind) collected (60)
+Seat 3: sunbreathking (big blind) folded before Flop
+
+
+
+PokerStars Hand #259598477574: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 7:16:18 CET [2026/02/05 1:16:18 ET]
+Table '3972225632 1' 3-max Seat #3 is the button
+Seat 2: Bilal34877 (240 in chips) 
+Seat 3: sunbreathking (1260 in chips) 
+sunbreathking: posts small blind 15
+Bilal34877: posts big blind 30
+*** HOLE CARDS ***
+Dealt to sunbreathking [Tc 5d]
+sunbreathking: folds 
+Uncalled bet (15) returned to Bilal34877
+Bilal34877 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Bilal34877 (big blind) collected (30)
+Seat 3: sunbreathking (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598477926: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 7:16:23 CET [2026/02/05 1:16:23 ET]
+Table '3972225632 1' 3-max Seat #2 is the button
+Seat 2: Bilal34877 (255 in chips) 
+Seat 3: sunbreathking (1245 in chips) 
+Bilal34877: posts small blind 15
+sunbreathking: posts big blind 30
+*** HOLE CARDS ***
+Dealt to sunbreathking [3c 5d]
+Bilal34877: raises 225 to 255 and is all-in
+sunbreathking: folds 
+Uncalled bet (225) returned to Bilal34877
+Bilal34877 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Bilal34877 (button) (small blind) collected (60)
+Seat 3: sunbreathking (big blind) folded before Flop
+
+
+
+PokerStars Hand #259598478321: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 7:16:30 CET [2026/02/05 1:16:30 ET]
+Table '3972225632 1' 3-max Seat #3 is the button
+Seat 2: Bilal34877 (285 in chips) 
+Seat 3: sunbreathking (1215 in chips) 
+sunbreathking: posts small blind 15
+Bilal34877: posts big blind 30
+*** HOLE CARDS ***
+Dealt to sunbreathking [3c Kd]
+sunbreathking: folds 
+Uncalled bet (15) returned to Bilal34877
+Bilal34877 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Bilal34877 (big blind) collected (30)
+Seat 3: sunbreathking (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259598478923: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 7:16:40 CET [2026/02/05 1:16:40 ET]
+Table '3972225632 1' 3-max Seat #2 is the button
+Seat 2: Bilal34877 (300 in chips) 
+Seat 3: sunbreathking (1200 in chips) 
+Bilal34877: posts small blind 15
+sunbreathking: posts big blind 30
+*** HOLE CARDS ***
+Dealt to sunbreathking [Jd 5c]
+Bilal34877: raises 270 to 300 and is all-in
+sunbreathking: folds 
+Uncalled bet (270) returned to Bilal34877
+Bilal34877 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Bilal34877 (button) (small blind) collected (60)
+Seat 3: sunbreathking (big blind) folded before Flop
+
+
+
+PokerStars Hand #259598479324: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 7:16:46 CET [2026/02/05 1:16:46 ET]
+Table '3972225632 1' 3-max Seat #3 is the button
+Seat 2: Bilal34877 (330 in chips) 
+Seat 3: sunbreathking (1170 in chips) 
+sunbreathking: posts small blind 15
+Bilal34877: posts big blind 30
+*** HOLE CARDS ***
+Dealt to sunbreathking [Td Th]
+sunbreathking: calls 15
+Bilal34877: checks 
+*** FLOP *** [3c Qc 7h]
+Bilal34877: checks 
+sunbreathking: checks 
+*** TURN *** [3c Qc 7h] [Ks]
+Bilal34877: checks 
+sunbreathking: checks 
+*** RIVER *** [3c Qc 7h Ks] [4s]
+Bilal34877: checks 
+sunbreathking: checks 
+*** SHOW DOWN ***
+Bilal34877: shows [2h 8d] (high card King)
+sunbreathking: shows [Td Th] (a pair of Tens)
+sunbreathking collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c Qc 7h Ks 4s]
+Seat 2: Bilal34877 (big blind) showed [2h 8d] and lost with high card King
+Seat 3: sunbreathking (button) (small blind) showed [Td Th] and won (60) with a pair of Tens
+
+
+
+PokerStars Hand #259598481317: Tournament #3972225632, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 7:17:18 CET [2026/02/05 1:17:18 ET]
+Table '3972225632 1' 3-max Seat #2 is the button
+Seat 2: Bilal34877 (300 in chips) 
+Seat 3: sunbreathking (1200 in chips) 
+Bilal34877: posts small blind 15
+sunbreathking: posts big blind 30
+*** HOLE CARDS ***
+Dealt to sunbreathking [8h 8d]
+Bilal34877: raises 270 to 300 and is all-in
+sunbreathking: calls 270
+*** FLOP *** [9d 8s 6h]
+*** TURN *** [9d 8s 6h] [Qh]
+*** RIVER *** [9d 8s 6h Qh] [Kh]
+*** SHOW DOWN ***
+sunbreathking: shows [8h 8d] (three of a kind, Eights)
+Bilal34877: shows [Ks 4d] (a pair of Kings)
+sunbreathking collected 600 from pot
+Bilal34877 finished the tournament in 2nd place
+sunbreathking wins the tournament - congratulations!
+sunbreathking wins a '€1 Step 2 MTT Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [9d 8s 6h Qh Kh]
+Seat 2: Bilal34877 (button) (small blind) showed [Ks 4d] and lost with a pair of Kings
+Seat 3: sunbreathking (big blind) showed [8h 8d] and won (600) with three of a kind, Eights
+
+
+
