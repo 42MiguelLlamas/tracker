@@ -102,13 +102,13 @@ class HandHistoryImporter:
         self.runtime: Dict[str, FileRuntimeState] = {}
     
     def _list_txt_files(self) -> List[Path]:
-        if not self.folder.exists:
+        if not self.folder.exists():
             return []
-        list = []
+        files: List[Path] = []
         for p in self.folder.glob("*.txt"):
             if p.is_file():
-                list.append(p)
-        return sorted(list)
+                files.append(p)
+        return sorted(files)
     
     def run_initial_import(self) -> None:
         files = self._list_txt_files()
@@ -132,12 +132,15 @@ class HandHistoryImporter:
 
 
     def tick(self) -> None:
+
         if not self._bootstrapped:
             self.run_initial_import()
             self._bootstrapped = True
             return
+        
         now = time.time()
         cutoff = now - self.window_seconds
+        
         files = self._list_txt_files()
         candidates: List[Tuple[Path, float, int]] = []
         #Filtrar por mtimer reciende segun cut off en funcion de window_seconds

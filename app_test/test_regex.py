@@ -1,9 +1,9 @@
 from __future__ import annotations
 import os
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Optional, Tuple, Dict, List
+from typing import Optional, Tuple, Dict, List, Iterator, Any
 import re
 
 from .db import DB
@@ -97,7 +97,55 @@ SEAT_SUMMARY_RE = re.compile(rb"""
                         \s*$
                         """, re.VERBOSE)
 
+@dataclass
+class Seat:
+    pos: str | None = None
+    player_name: str | None = None
+    chips: float | None = None
+    sitting_out: bool = False
 
+@dataclass
+class Action:
+    street:str | None = None
+    player_name:str | None = None
+    action:str | None = None
+    amount:float | None = None
+    raise_from: float | None = None
+    raise_to: float | None = None
+    is_all_in: bool = False
+
+@dataclass
+class Post:
+    player_name: str | None = None
+    kind: str | None = None
+    amount: float | None = None
+
+@dataclass
+class PlayerResult:
+    player_name: str | None = None
+    cards: str | None = None
+    collected: float | None = None
+
+@dataclass
+class HandData:
+    hand_id: str | None
+    tournament_id: str | None
+    buy_in: str | None
+    stakes: str | None
+    cur: str | None
+    local_dt: str | None
+    local_tz: str | None
+
+    table_max_seats: int | None
+    button_pos: int | None
+
+    seats: List[Seat] = field(default_factory=list)
+    posts: List[Post] = field(default_factory=list)
+    dealt: Dict[str,str] = field(default_factory=dict)
+    actions: List[Action] = field(default_factory=list)
+
+    board: Dict[str, str] = field(default_factory=dict)
+    results: List[PlayerResult] = field(default_factory=list)
 
 line_cash = """PokerStars Hand #259598453823:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/05 7:09:57 CET [2026/02/05 1:09:57 ET]
 Table 'Cyrene' 6-max Seat #4 is the button
@@ -260,28 +308,87 @@ def dump_regex_matches(data: bytes | str, patterns: list[tuple[str, re.Pattern[b
 
         print()
 
+def iter_hands(fp) -> Iterator[List[bytes]]:
+    cur: List[bytes] = []
+    started = False
+    for line in fp:
+        if line.startswith(b"PokerStars Hand"):
+            if started and cur:
+                yield cur
+                cur = []
+            started = True
+        if started:
+            cur.append(line)
+    if started and cur:
+        yield cur
+
+def decode_utf(element: bytes) -> str:
+    return element.decode("utf-8", "replace")
+
+def parse_hand(lines: List[bytes]) -> HandData:
+    #Paso 1. Header Line
+    hand = HandData(
+        hand_id=None, tournament_id=None, buy_in=None, stakes=None,
+        cur=None, local_dt=None, local_tz=None, table_max_seats=None, button_pos=None
+    )
+    if not lines:
+        return hand
+    m = HAND_START_RE.match(lines[0])
+    if not m:
+        return None
+    gd = m.groupdict()
+    hand.hand_id = gd["hand_id"].decode("utf-8", "replace")
+    hand.tournament_id = (gd.get("tournament_id") or b"").decode("utf-8", "replace") or None
+    hand.buy_in = (gd.get("buy_in") or b"").decode("utf-8", "replace") or None
+    hand.stakes = (gd.get("stakes") or b"").decode("utf-8", "replace") or None
+    hand.cur = (gd.get("cur") or gd.get("cur_cash") or b"").decode("utf-8", "replace") or None
+    hand.local_dt = gd["local_dt"].decode("utf-8", "replace")
+    hand.local_tz = gd["local_tz"].decode("utf-8", "replace")
+
+    #Paso 2. Table Line
+    mt = TABLE_START_RE.match(lines[1])
+    if not mt:
+        return None
+
+    tgd = mt.groupdict()
+    hand.table_max_seats = int(tgd["max_seats"].decode("utf-8", "replace"))
+    hand.button_pos = int(tgd["btn_pos"].decode("utf-8", "replace"))
+    return hand
 
 def main():
-    patterns = [
-        ("HAND_START_RE", HAND_START_RE),
-        ("TABLE_START_RE", TABLE_START_RE),
-        ("SEAT_RE", SEAT_RE),
-        ("POST_RE", POST_RE),
-        ("PREFLOP_RE", PREFLOP_RE),
-        ("DEALT_RE", DEALT_RE),
-        ("ACTION_RE", ACTION_RE),
-        ("FLOP_RE", FLOP_RE),
-        ("TURN_RE", TURN_RE),
-        ("RIVER_RE", RIVER_RE),
-        ("SUMMARY_RE", SUMMARY_RE),
-        ("SEAT_SUMMARY_RE", SEAT_SUMMARY_RE),
-    ]
+    p = Path("app_test/HH20260201 T3967126220 Hold'em Sin límite 90 € + 10 €.txt")
+    hands = []
+    with p.open("rb") as f:
+        buffer = f.read(500)
+        print(buffer)
+        lines = buffer.splitlines()
+        if lines[0].startswith(b"\xef\xbb\xbf"):
+            lines[0] = lines[0][3:]
+        for hand_lines in iter_hands(f):
+            hands.append(parse_hand(hand_lines))
+    print("hands:", len(hands))
+    
+    
+    # patterns = [
+    #     ("HAND_START_RE", HAND_START_RE),
+    #     ("TABLE_START_RE", TABLE_START_RE),
+    #     ("SEAT_RE", SEAT_RE),
+    #     ("POST_RE", POST_RE),
+    #     ("PREFLOP_RE", PREFLOP_RE),
+    #     ("DEALT_RE", DEALT_RE),
+    #     ("ACTION_RE", ACTION_RE),
+    #     ("FLOP_RE", FLOP_RE),
+    #     ("TURN_RE", TURN_RE),
+    #     ("RIVER_RE", RIVER_RE),
+    #     ("SUMMARY_RE", SUMMARY_RE),
+    #     ("SEAT_SUMMARY_RE", SEAT_SUMMARY_RE),
+    # ]
 
-    print("---- TOURNAMENT ----")
-    dump_regex_matches(line_tournament, patterns)
+    # print("---- TOURNAMENT ----")
+    # dump_regex_matches(line_tournament, patterns)
 
-    print("---- CASH ----")
-    dump_regex_matches(line_cash, patterns)
+    # print("---- CASH ----")
+    # dump_regex_matches(line_cash, patterns)
 
 
 if __name__ == "__main__":
