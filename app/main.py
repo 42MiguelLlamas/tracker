@@ -7,7 +7,7 @@ from PySide6.QtQml import QQmlApplicationEngine
 from PySide6.QtCore import QTimer, Qt
 from PySide6.QtQuickControls2 import QQuickStyle
 from .settings import MockSettings
-from .db import DB
+from .database.db import DB
 from .importer import HandHistoryImporter
 
 load_dotenv()

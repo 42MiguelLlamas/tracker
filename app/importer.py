@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Optional, Tuple, Dict, List
 import re
 
-from .db import DB
+from .database.db import DB
 
 
 HAND_START_RE = re.compile(rb"""
